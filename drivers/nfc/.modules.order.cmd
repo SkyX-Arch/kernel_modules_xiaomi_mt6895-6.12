@@ -1,0 +1,1 @@
+savedcmd_/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/nfc/modules.order := {   cat /home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/nfc/nxp-i2c/modules.order; :; } > /home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/nfc/modules.order

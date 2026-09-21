@@ -1,0 +1,16 @@
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/lpm/lpm_module.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/lpm/lpm_call.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/lpm/lpm_registry.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/lpm/mtk_lpm_fs/mtk_cpuidle_sysfs.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/lpm/mtk_lpm_fs/mtk_lp_sysfs.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/lpm/mtk_lpm_fs/mtk_suspend_sysfs.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/lpm/mtk_lpm_fs/mtk_spm_sysfs.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/lpm/mtk_lpm_fs/mtk_lpm_sysfs.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/lpm/mtk_lpm_fs/mtk_lp_sysfs_procfs.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/lpm/mtk_lpm_fs/mtk_ocla_sysfs.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/lpm/platform/lpm_platform.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/lpm/platform/lpm_irqremain.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/lpm/platform/lpm_resource_ctrl.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/lpm/platform/lpm_rc.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/lpm/platform/lpm_trace.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/lpm/lpm_trace_event/lpm_trace_event.o

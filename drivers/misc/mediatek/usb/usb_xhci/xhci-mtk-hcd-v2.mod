@@ -1,0 +1,12 @@
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/usb/usb_xhci/xhci.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/usb/usb_xhci/xhci-mem.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/usb/usb_xhci/xhci-ext-caps.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/usb/usb_xhci/xhci-ring.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/usb/usb_xhci/xhci-hub.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/usb/usb_xhci/xhci-dbg.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/usb/usb_xhci/xhci-trace.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/usb/usb_xhci/xhci-mtk.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/usb/usb_xhci/xhci-mtk-sch.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/usb/usb_xhci/quirks.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/usb/usb_xhci/xhci-sideband.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/usb/usb_xhci/xhci-debugfs.o

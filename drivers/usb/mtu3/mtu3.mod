@@ -1,0 +1,9 @@
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/usb/mtu3/mtu3_core.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/usb/mtu3/mtu3_dr.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/usb/mtu3/mtu3_gadget_ep0.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/usb/mtu3/mtu3_gadget.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/usb/mtu3/mtu3_plat.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/usb/mtu3/mtu3_host.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/usb/mtu3/mtu3_qmu.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/usb/mtu3/mtu3_trace.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/usb/mtu3/mtu3_debugfs.o

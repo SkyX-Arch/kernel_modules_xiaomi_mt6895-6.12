@@ -1,0 +1,12 @@
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/soc/mediatek/devapc/device-apc-common.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/soc/mediatek/devapc/device-apc-mt6895.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/soc/mediatek/mtk-dvfsrc.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/soc/mediatek/mtk-mbox.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/soc/mediatek/mtk-mmdvfs.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/soc/mediatek/mtk-mmdvfs-v3.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/soc/mediatek/mtk-pm-domain-disable-unused.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/soc/mediatek/mtk-pmic-wrap.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/soc/mediatek/mtk-scpsys-bringup.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/soc/mediatek/mtk-scpsys.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/soc/mediatek/mtk-scpsys-mt6895.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/soc/mediatek/mtk_tinysys_ipi.o

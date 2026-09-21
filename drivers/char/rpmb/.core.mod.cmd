@@ -1,0 +1,1 @@
+savedcmd_/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/char/rpmb/core.mod := printf '%s\n'   core.o | awk '!x[$$0]++ { print("/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/char/rpmb/"$$0) }' > /home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/char/rpmb/core.mod

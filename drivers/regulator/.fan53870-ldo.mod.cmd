@@ -1,0 +1,1 @@
+savedcmd_/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/regulator/fan53870-ldo.mod := printf '%s\n'   fan53870-ldo.o | awk '!x[$$0]++ { print("/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/regulator/"$$0) }' > /home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/regulator/fan53870-ldo.mod

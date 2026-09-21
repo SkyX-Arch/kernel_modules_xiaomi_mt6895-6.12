@@ -1,0 +1,11 @@
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/input/touchscreen/L12a_fts_spi/fts_lib/ftsCompensation.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/input/touchscreen/L12a_fts_spi/fts_lib/ftsCore.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/input/touchscreen/L12a_fts_spi/fts_lib/ftsError.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/input/touchscreen/L12a_fts_spi/fts_lib/ftsFrame.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/input/touchscreen/L12a_fts_spi/fts_lib/ftsIO.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/input/touchscreen/L12a_fts_spi/fts_lib/ftsTest.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/input/touchscreen/L12a_fts_spi/fts_lib/ftsTool.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/input/touchscreen/L12a_fts_spi/fts_lib/ftsFlash.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/input/touchscreen/L12a_fts_spi/fts_lib/ftsGesture.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/input/touchscreen/L12a_fts_spi/fts_proc.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/input/touchscreen/L12a_fts_spi/fts.o

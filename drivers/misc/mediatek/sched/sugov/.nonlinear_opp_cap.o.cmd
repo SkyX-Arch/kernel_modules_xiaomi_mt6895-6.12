@@ -1,0 +1,1796 @@
+savedcmd_/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/sched/sugov/nonlinear_opp_cap.o := /usr/bin/ccache clang -Wp,-MMD,/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/sched/sugov/.nonlinear_opp_cap.o.d -nostdinc -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/gpu/mediatek/gpueb -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/blocktag -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12 -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/include -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/include/soc/mediatek -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/clk/mediatek -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/gpu/mediatek/gpufreq -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/gpu/mediatek/gpufreq/v2/include -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/gpu/mediatek/gpueb/include -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/gpu/mediatek/mt-plat -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/typec/tcpc/inc -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/mtk-interconnect -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/include -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/include/mt-plat -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/mminfra -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/power_throttling -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/dcm -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/dcm/include -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/mdpm -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/aee/mrdump -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/aee/aed -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/mcupm/include -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/pbm -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/sda/include -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/mdp -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/smi -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/mmdvfs -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/qos -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/mm_monitor -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/mmp -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/vcp/rv -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/vcp/rv_v2 -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/vcp/include -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/iommu -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/iommu/arm/arm-smmu-v3 -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/ufs -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/iommu -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/memory -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/usb/mtu3 -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/char/rpmb -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/char/rpmb/core -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/char/rpmb/drrpmb_gp/public -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/mmc/host -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/power/supply -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/tee/gud/700/MobiCoreDriver -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/tee/gud/700/MobiCoreDriver/public -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/dma-buf/heaps -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/media/platform/mtk-vcodec -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/gpu/drm/mediatek/dpc -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/gpu/mediatek/gpufreq/v2 -I/home/skyfox/Crdroid/kernel/xiaomi/mt6895-6.12/drivers/devfreq -I/home/skyfox/Crdroid/kernel/xiaomi/mt6895-6.12/drivers/mmc/host -I/home/skyfox/Crdroid/kernel/xiaomi/mt6895-6.12/drivers/tty/serial/8250 -I/home/skyfox/Crdroid/kernel/xiaomi/mt6895-6.12/drivers/dma -I/home/skyfox/Crdroid/kernel/xiaomi/mt6895-6.12/drivers/ufs/host -I/home/skyfox/Crdroid/kernel/xiaomi/mt6895-6.12/drivers/ufs/core -I/home/skyfox/Crdroid/kernel/xiaomi/mt6895-6.12/drivers/usb/typec -I/home/skyfox/Crdroid/kernel/xiaomi/mt6895-6.12/kernel -I/home/skyfox/Crdroid/kernel/xiaomi/mt6895-6.12/include -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/thermal -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/thermal/mediatek -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/slbc -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/mmdebug -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/tinysys_scmi -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/leds -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/spi_slave_drv -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/geniezone/include -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/geniezone/public -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/trusted_mem/public -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/tee/teei/520/common/include -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/tee/teei/520/public -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/tee/teei/520/tz_driver/include -I/home/skyfox/Crdroid/kernel/xiaomi/mt6895-6.12/arch/arm64/include -I./arch/arm64/include/generated -I/home/skyfox/Crdroid/kernel/xiaomi/mt6895-6.12/include -I./include -I/home/skyfox/Crdroid/kernel/xiaomi/mt6895-6.12/arch/arm64/include/uapi -I./arch/arm64/include/generated/uapi -I/home/skyfox/Crdroid/kernel/xiaomi/mt6895-6.12/include/uapi -I./include/generated/uapi -include /home/skyfox/Crdroid/kernel/xiaomi/mt6895-6.12/include/linux/compiler-version.h -include /home/skyfox/Crdroid/kernel/xiaomi/mt6895-6.12/include/linux/kconfig.h -include /home/skyfox/Crdroid/kernel/xiaomi/mt6895-6.12/include/linux/compiler_types.h -D__KERNEL__ -DOPLUS_FEATURE_CHG_BASIC --target=aarch64-linux-gnu -fintegrated-as -Werror=unknown-warning-option -Werror=ignored-optimization-argument -Werror=option-ignored -Werror=unused-command-line-argument -mlittle-endian -DKASAN_SHADOW_SCALE_SHIFT= -fmacro-prefix-map=/home/skyfox/Crdroid/kernel/xiaomi/mt6895-6.12/= -Werror -std=gnu11 -fshort-wchar -funsigned-char -fno-common -fno-PIE -fno-strict-aliasing -DOPLUS_FEATURE_CHG_BASIC -mgeneral-regs-only -DCONFIG_CC_HAS_K_CONSTRAINT=1 -Wno-psabi -fasynchronous-unwind-tables -mbranch-protection=pac-ret -Wa,-march=armv8.5-a -DARM64_ASM_ARCH='"armv8.5-a"' -ffixed-x18 -DKASAN_SHADOW_SCALE_SHIFT= -fno-delete-null-pointer-checks -O2 -fstack-protector-strong -fno-omit-frame-pointer -fno-optimize-sibling-calls -ftrivial-auto-var-init=zero -fno-stack-clash-protection -fno-lto -flto=thin -fsplit-lto-unit -fvisibility=default -fsanitize=kcfi -fsanitize-cfi-icall-experimental-normalize-integers -falign-functions=4 -fstrict-flex-arrays=3 -fno-strict-overflow -fno-stack-check -Wall -Wundef -Werror=implicit-function-declaration -Werror=implicit-int -Werror=return-type -Werror=strict-prototypes -Wno-format-security -Wno-trigraphs -Wno-frame-address -Wno-address-of-packed-member -Wframe-larger-than=2048 -Wno-gnu -Wno-format-overflow-non-kprintf -Wno-format-truncation-non-kprintf -Wvla -Wno-pointer-sign -Wcast-function-type -Wimplicit-fallthrough -Werror=date-time -Werror=incompatible-pointer-types -Wenum-conversion -Wextra -Wunused -Wno-unused-but-set-variable -Wno-unused-const-variable -Wno-format-overflow -Wno-override-init -Wno-pointer-to-enum-cast -Wno-tautological-constant-out-of-range-compare -Wno-unaligned-access -Wno-enum-compare-conditional -Wno-missing-field-initializers -Wno-type-limits -Wno-shift-negative-value -Wno-enum-enum-conversion -Wno-sign-compare -Wno-unused-parameter -g -gdwarf-5 -gz=zstd -mstack-protector-guard=sysreg -mstack-protector-guard-reg=sp_el0 -mstack-protector-guard-offset=1808 -Wall -Werror -I/home/skyfox/Crdroid/kernel/xiaomi/mt6895-6.12//home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/include -I/home/skyfox/Crdroid/kernel/xiaomi/mt6895-6.12//home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/include/uapi -I/home/skyfox/Crdroid/kernel/xiaomi/mt6895-6.12/kernel/ -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/thermal/mediatek -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/sched/ -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/include/ -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/cpufreq/ -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/include/upower -I/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/power_throttling  -fsanitize=array-bounds -fsanitize=local-bounds -fsanitize-trap=undefined    -fdebug-info-for-profiling -mllvm -enable-fs-discriminator=true -mllvm -improved-fs-discriminator=true -fprofile-sample-use=/home/skyfox/Crdroid/kernel/xiaomi/mt6895-6.12/gki/aarch64/afdo/kernel.afdo -ffunction-sections -fsplit-machine-functions  -DMODULE -DOPLUS_FEATURE_CHG_BASIC -DKBUILD_BASENAME='"nonlinear_opp_cap"' -DKBUILD_MODNAME='"cpufreq_sugov_ext"' -D__KBUILD_MODNAME=kmod_cpufreq_sugov_ext -c -o /home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/sched/sugov/nonlinear_opp_cap.o /home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/sched/sugov/nonlinear_opp_cap.c  
+
+source_/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/sched/sugov/nonlinear_opp_cap.o := ../../../../../../kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/sched/sugov/nonlinear_opp_cap.c
+
+deps_/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/sched/sugov/nonlinear_opp_cap.o := \
+    $(wildcard include/config/MTK_GEARLESS_SUPPORT) \
+    $(wildcard include/config/MTK_THERMAL_INTERFACE) \
+    $(wildcard include/config/MTK_OPP_CAP_INFO) \
+    $(wildcard include/config/MTK_SCHED_FAST_LOAD_TRACKING) \
+    $(wildcard include/config/SMP) \
+    $(wildcard include/config/MTK_UNIFIED_POWER) \
+    $(wildcard include/config/64BIT) \
+    $(wildcard include/config/UCLAMP_TASK_GROUP) \
+    $(wildcard include/config/NONLINEAR_FREQ_CTL) \
+    $(wildcard include/config/MTK_SCHED_GROUP_AWARE) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/compiler-version.h \
+    $(wildcard include/config/CC_VERSION_TEXT) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/kconfig.h \
+    $(wildcard include/config/CPU_BIG_ENDIAN) \
+    $(wildcard include/config/BOOGER) \
+    $(wildcard include/config/FOO) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/compiler_types.h \
+    $(wildcard include/config/DEBUG_INFO_BTF) \
+    $(wildcard include/config/PAHOLE_HAS_BTF_TAG) \
+    $(wildcard include/config/FUNCTION_ALIGNMENT) \
+    $(wildcard include/config/CC_HAS_SANE_FUNCTION_ALIGNMENT) \
+    $(wildcard include/config/X86_64) \
+    $(wildcard include/config/ARM64) \
+    $(wildcard include/config/LD_DEAD_CODE_DATA_ELIMINATION) \
+    $(wildcard include/config/LTO_CLANG) \
+    $(wildcard include/config/HAVE_ARCH_COMPILER_H) \
+    $(wildcard include/config/CC_HAS_COUNTED_BY) \
+    $(wildcard include/config/UBSAN_SIGNED_WRAP) \
+    $(wildcard include/config/CC_HAS_ASM_INLINE) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/compiler_attributes.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/compiler-clang.h \
+    $(wildcard include/config/ARCH_USE_BUILTIN_BSWAP) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/compiler.h \
+    $(wildcard include/config/ARM64_PTR_AUTH_KERNEL) \
+    $(wildcard include/config/ARM64_PTR_AUTH) \
+    $(wildcard include/config/BUILTIN_RETURN_ADDRESS_STRIPS_PAC) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/io.h \
+    $(wildcard include/config/MMU) \
+    $(wildcard include/config/HAS_IOPORT_MAP) \
+    $(wildcard include/config/PCI) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/sizes.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/const.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/vdso/const.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/const.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/types.h \
+    $(wildcard include/config/HAVE_UID16) \
+    $(wildcard include/config/UID16) \
+    $(wildcard include/config/ARCH_DMA_ADDR_T_64BIT) \
+    $(wildcard include/config/PHYS_ADDR_T_64BIT) \
+    $(wildcard include/config/ARCH_32BIT_USTAT_F_TINODE) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/types.h \
+  arch/arm64/include/generated/uapi/asm/types.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/asm-generic/types.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/int-ll64.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/asm-generic/int-ll64.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/uapi/asm/bitsperlong.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/bitsperlong.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/asm-generic/bitsperlong.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/posix_types.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/stddef.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/stddef.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/uapi/asm/posix_types.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/asm-generic/posix_types.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/init.h \
+    $(wildcard include/config/MEMORY_HOTPLUG) \
+    $(wildcard include/config/HAVE_ARCH_PREL32_RELOCATIONS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/build_bug.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/compiler.h \
+    $(wildcard include/config/TRACE_BRANCH_PROFILING) \
+    $(wildcard include/config/PROFILE_ALL_BRANCHES) \
+    $(wildcard include/config/OBJTOOL) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/rwonce.h \
+    $(wildcard include/config/LTO) \
+    $(wildcard include/config/AS_HAS_LDAPR) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/alternative-macros.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/vdso/bits.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/cpucaps.h \
+    $(wildcard include/config/ARM64_PAN) \
+    $(wildcard include/config/ARM64_EPAN) \
+    $(wildcard include/config/ARM64_SVE) \
+    $(wildcard include/config/ARM64_SME) \
+    $(wildcard include/config/ARM64_CNP) \
+    $(wildcard include/config/ARM64_PSEUDO_NMI) \
+    $(wildcard include/config/ARM64_MTE) \
+    $(wildcard include/config/ARM64_BTI) \
+    $(wildcard include/config/ARM64_TLB_RANGE) \
+    $(wildcard include/config/UNMAP_KERNEL_AT_EL0) \
+    $(wildcard include/config/ARM64_ERRATUM_843419) \
+    $(wildcard include/config/ARM64_ERRATUM_1742098) \
+    $(wildcard include/config/ARM64_ERRATUM_2645198) \
+    $(wildcard include/config/ARM64_ERRATUM_2658417) \
+    $(wildcard include/config/CAVIUM_ERRATUM_23154) \
+    $(wildcard include/config/NVIDIA_CARMEL_CNP_ERRATUM) \
+    $(wildcard include/config/ARM64_WORKAROUND_REPEAT_TLBI) \
+    $(wildcard include/config/ARM64_ERRATUM_3194386) \
+  arch/arm64/include/generated/asm/cpucap-defs.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/insn-def.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/brk-imm.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/stringify.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/rwonce.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/kasan-checks.h \
+    $(wildcard include/config/KASAN_GENERIC) \
+    $(wildcard include/config/KASAN_SW_TAGS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/kcsan-checks.h \
+    $(wildcard include/config/KCSAN) \
+    $(wildcard include/config/KCSAN_WEAK_MEMORY) \
+    $(wildcard include/config/KCSAN_IGNORE_ATOMICS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/bug.h \
+    $(wildcard include/config/GENERIC_BUG) \
+    $(wildcard include/config/BUG_ON_DATA_CORRUPTION) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/bug.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/asm-bug.h \
+    $(wildcard include/config/DEBUG_BUGVERBOSE) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/bug.h \
+    $(wildcard include/config/BUG) \
+    $(wildcard include/config/GENERIC_BUG_RELATIVE_POINTERS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/instrumentation.h \
+    $(wildcard include/config/NOINSTR_VALIDATION) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/once_lite.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/panic.h \
+    $(wildcard include/config/PANIC_TIMEOUT) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/printk.h \
+    $(wildcard include/config/MTK_PRINTK_DEBUG) \
+    $(wildcard include/config/MESSAGE_LOGLEVEL_DEFAULT) \
+    $(wildcard include/config/CONSOLE_LOGLEVEL_DEFAULT) \
+    $(wildcard include/config/CONSOLE_LOGLEVEL_QUIET) \
+    $(wildcard include/config/EARLY_PRINTK) \
+    $(wildcard include/config/PRINTK) \
+    $(wildcard include/config/PRINTK_INDEX) \
+    $(wildcard include/config/DYNAMIC_DEBUG) \
+    $(wildcard include/config/DYNAMIC_DEBUG_CORE) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/stdarg.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/kern_levels.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/linkage.h \
+    $(wildcard include/config/ARCH_USE_SYM_ANNOTATIONS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/export.h \
+    $(wildcard include/config/MODVERSIONS) \
+    $(wildcard include/config/GENDWARFKSYMS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/linkage.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/ratelimit_types.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/bits.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/bits.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/param.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/uapi/asm/param.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/param.h \
+    $(wildcard include/config/HZ) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/asm-generic/param.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/spinlock_types_raw.h \
+    $(wildcard include/config/DEBUG_SPINLOCK) \
+    $(wildcard include/config/DEBUG_LOCK_ALLOC) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/spinlock_types.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/qspinlock_types.h \
+    $(wildcard include/config/NR_CPUS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/qrwlock_types.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/uapi/asm/byteorder.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/byteorder/little_endian.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/byteorder/little_endian.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/swab.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/swab.h \
+  arch/arm64/include/generated/uapi/asm/swab.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/asm-generic/swab.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/byteorder/generic.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/lockdep_types.h \
+    $(wildcard include/config/PROVE_RAW_LOCK_NESTING) \
+    $(wildcard include/config/LOCKDEP) \
+    $(wildcard include/config/LOCK_STAT) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/err.h \
+  arch/arm64/include/generated/uapi/asm/errno.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/asm-generic/errno.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/asm-generic/errno-base.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/io.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/pgtable.h \
+    $(wildcard include/config/PGTABLE_LEVELS) \
+    $(wildcard include/config/HIGHPTE) \
+    $(wildcard include/config/TRANSPARENT_HUGEPAGE) \
+    $(wildcard include/config/ARCH_HAS_NONLEAF_PMD_YOUNG) \
+    $(wildcard include/config/ARCH_HAS_HW_PTE_YOUNG) \
+    $(wildcard include/config/GUP_GET_PXX_LOW_HIGH) \
+    $(wildcard include/config/ARCH_WANT_PMD_MKWRITE) \
+    $(wildcard include/config/HAVE_ARCH_TRANSPARENT_HUGEPAGE_PUD) \
+    $(wildcard include/config/HAVE_ARCH_SOFT_DIRTY) \
+    $(wildcard include/config/ARCH_ENABLE_THP_MIGRATION) \
+    $(wildcard include/config/ARCH_HAS_PTE_DEVMAP) \
+    $(wildcard include/config/NUMA_BALANCING) \
+    $(wildcard include/config/HAVE_ARCH_HUGE_VMAP) \
+    $(wildcard include/config/X86_ESPFIX64) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/pfn.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/pgtable.h \
+    $(wildcard include/config/ARM64_PA_BITS_52) \
+    $(wildcard include/config/HAVE_ARCH_USERFAULTFD_WP) \
+    $(wildcard include/config/DEBUG_VM) \
+    $(wildcard include/config/ARCH_SUPPORTS_PMD_PFNMAP) \
+    $(wildcard include/config/ARCH_SUPPORTS_PUD_PFNMAP) \
+    $(wildcard include/config/ARM64_64K_PAGES) \
+    $(wildcard include/config/ARM64_LPA2) \
+    $(wildcard include/config/PAGE_TABLE_CHECK) \
+    $(wildcard include/config/ARM64_CONTPTE) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/proc-fns.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/page.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/page-def.h \
+    $(wildcard include/config/PAGE_SHIFT) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/personality.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/personality.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/pgtable-types.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/pgtable-nopud.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/pgtable-nop4d.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/memory.h \
+    $(wildcard include/config/ARM64_VA_BITS) \
+    $(wildcard include/config/ARM64_16K_PAGES) \
+    $(wildcard include/config/KASAN_SHADOW_OFFSET) \
+    $(wildcard include/config/KASAN) \
+    $(wildcard include/config/VMAP_STACK) \
+    $(wildcard include/config/ARM64_4K_PAGES) \
+    $(wildcard include/config/RANDOMIZE_BASE) \
+    $(wildcard include/config/KASAN_HW_TAGS) \
+    $(wildcard include/config/DEBUG_VIRTUAL) \
+    $(wildcard include/config/EFI) \
+    $(wildcard include/config/ARM_GIC_V3_ITS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/bitops.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/typecheck.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/kernel.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/sysinfo.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/bitops/generic-non-atomic.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/barrier.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/barrier.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/bitops.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/bitops/builtin-__ffs.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/bitops/builtin-ffs.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/bitops/builtin-__fls.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/bitops/builtin-fls.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/bitops/ffz.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/bitops/fls64.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/bitops/sched.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/bitops/hweight.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/bitops/arch_hweight.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/bitops/const_hweight.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/bitops/atomic.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/atomic.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/atomic.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/cmpxchg.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/lse.h \
+    $(wildcard include/config/ARM64_LSE_ATOMICS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/atomic_ll_sc.h \
+    $(wildcard include/config/CC_HAS_K_CONSTRAINT) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/alternative.h \
+    $(wildcard include/config/MODULES) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/atomic_lse.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/atomic/atomic-arch-fallback.h \
+    $(wildcard include/config/GENERIC_ATOMIC64) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/atomic/atomic-long.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/atomic/atomic-instrumented.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/instrumented.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/kmsan-checks.h \
+    $(wildcard include/config/KMSAN) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/bitops/instrumented-atomic.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/bitops/lock.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/bitops/instrumented-lock.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/bitops/non-atomic.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/bitops/non-instrumented-non-atomic.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/bitops/le.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/bitops/ext2-atomic-setbit.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/mmdebug.h \
+    $(wildcard include/config/DEBUG_VM_IRQSOFF) \
+    $(wildcard include/config/DEBUG_VM_PGFLAGS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/boot.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/sections.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/sections.h \
+    $(wildcard include/config/HAVE_FUNCTION_DESCRIPTORS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/sysreg.h \
+    $(wildcard include/config/BROKEN_GAS_INST) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/kasan-tags.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/gpr-num.h \
+  arch/arm64/include/generated/asm/sysreg-defs.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/bitfield.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/memory_model.h \
+    $(wildcard include/config/FLATMEM) \
+    $(wildcard include/config/SPARSEMEM_VMEMMAP) \
+    $(wildcard include/config/SPARSEMEM) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/getorder.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/log2.h \
+    $(wildcard include/config/ARCH_HAS_ILOG2_U32) \
+    $(wildcard include/config/ARCH_HAS_ILOG2_U64) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/mte.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/mte-def.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/kasan-enabled.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/static_key.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/jump_label.h \
+    $(wildcard include/config/JUMP_LABEL) \
+    $(wildcard include/config/HAVE_ARCH_JUMP_LABEL_RELATIVE) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/jump_label.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/insn.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/page-flags.h \
+    $(wildcard include/config/MEMORY_FAILURE) \
+    $(wildcard include/config/PAGE_IDLE_FLAG) \
+    $(wildcard include/config/ARCH_USES_PG_ARCH_2) \
+    $(wildcard include/config/ARCH_USES_PG_ARCH_3) \
+    $(wildcard include/config/HUGETLB_PAGE_OPTIMIZE_VMEMMAP) \
+    $(wildcard include/config/HIGHMEM) \
+    $(wildcard include/config/SWAP) \
+    $(wildcard include/config/KSM) \
+    $(wildcard include/config/HUGETLB_PAGE) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/mm_types.h \
+    $(wildcard include/config/HAVE_ALIGNED_STRUCT_PAGE) \
+    $(wildcard include/config/MEMCG) \
+    $(wildcard include/config/SLAB_OBJ_EXT) \
+    $(wildcard include/config/HUGETLB_PMD_PAGE_TABLE_SHARING) \
+    $(wildcard include/config/SLAB_FREELIST_HARDENED) \
+    $(wildcard include/config/USERFAULTFD) \
+    $(wildcard include/config/ANON_VMA_NAME) \
+    $(wildcard include/config/PER_VMA_LOCK) \
+    $(wildcard include/config/NUMA) \
+    $(wildcard include/config/SCHED_MM_CID) \
+    $(wildcard include/config/HAVE_ARCH_COMPAT_MMAP_BASES) \
+    $(wildcard include/config/MEMBARRIER) \
+    $(wildcard include/config/AIO) \
+    $(wildcard include/config/MMU_NOTIFIER) \
+    $(wildcard include/config/SPLIT_PMD_PTLOCKS) \
+    $(wildcard include/config/ARCH_WANT_BATCHED_UNMAP_TLB_FLUSH) \
+    $(wildcard include/config/PREEMPT_RT) \
+    $(wildcard include/config/IOMMU_MM_DATA) \
+    $(wildcard include/config/LRU_GEN_WALKS_MMU) \
+    $(wildcard include/config/LRU_GEN) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/mm_types_task.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/tlbbatch.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/auxvec.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/auxvec.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/uapi/asm/auxvec.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/kref.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/spinlock.h \
+    $(wildcard include/config/PREEMPTION) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/preempt.h \
+    $(wildcard include/config/PREEMPT_COUNT) \
+    $(wildcard include/config/DEBUG_PREEMPT) \
+    $(wildcard include/config/TRACE_PREEMPT_TOGGLE) \
+    $(wildcard include/config/PREEMPT_NOTIFIERS) \
+    $(wildcard include/config/PREEMPT_DYNAMIC) \
+    $(wildcard include/config/PREEMPT_NONE) \
+    $(wildcard include/config/PREEMPT_VOLUNTARY) \
+    $(wildcard include/config/PREEMPT) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/cleanup.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/preempt.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/thread_info.h \
+    $(wildcard include/config/THREAD_INFO_IN_TASK) \
+    $(wildcard include/config/GENERIC_ENTRY) \
+    $(wildcard include/config/HAVE_ARCH_WITHIN_STACK_FRAMES) \
+    $(wildcard include/config/HARDENED_USERCOPY) \
+    $(wildcard include/config/SH) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/limits.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/limits.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/vdso/limits.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/restart_block.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/errno.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/errno.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/current.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/thread_info.h \
+    $(wildcard include/config/ARM64_SW_TTBR0_PAN) \
+    $(wildcard include/config/SHADOW_CALL_STACK) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/stack_pointer.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/irqflags.h \
+    $(wildcard include/config/PROVE_LOCKING) \
+    $(wildcard include/config/TRACE_IRQFLAGS) \
+    $(wildcard include/config/IRQSOFF_TRACER) \
+    $(wildcard include/config/PREEMPT_TRACER) \
+    $(wildcard include/config/DEBUG_IRQFLAGS) \
+    $(wildcard include/config/TRACE_IRQFLAGS_SUPPORT) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/irqflags_types.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/irqflags.h \
+    $(wildcard include/config/ARM64_DEBUG_PRIORITY_MASKING) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/ptrace.h \
+    $(wildcard include/config/COMPAT) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/cpufeature.h \
+    $(wildcard include/config/ARM64_BTI_KERNEL) \
+    $(wildcard include/config/ARM64_POE) \
+    $(wildcard include/config/ARM64_PA_BITS) \
+    $(wildcard include/config/ARM64_HW_AFDBM) \
+    $(wildcard include/config/ARM64_AMU_EXTN) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/cputype.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/hwcap.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/uapi/asm/hwcap.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/kernel.h \
+    $(wildcard include/config/PREEMPT_VOLUNTARY_BUILD) \
+    $(wildcard include/config/HAVE_PREEMPT_DYNAMIC_CALL) \
+    $(wildcard include/config/HAVE_PREEMPT_DYNAMIC_KEY) \
+    $(wildcard include/config/PREEMPT_) \
+    $(wildcard include/config/DEBUG_ATOMIC_SLEEP) \
+    $(wildcard include/config/TRACING) \
+    $(wildcard include/config/FTRACE_MCOUNT_RECORD) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/align.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/array_size.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/container_of.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/hex.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/kstrtox.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/math.h \
+  arch/arm64/include/generated/asm/div64.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/div64.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/minmax.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/sprintf.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/static_call_types.h \
+    $(wildcard include/config/HAVE_STATIC_CALL) \
+    $(wildcard include/config/HAVE_STATIC_CALL_INLINE) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/instruction_pointer.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/wordpart.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/cpumask.h \
+    $(wildcard include/config/FORCE_NR_CPUS) \
+    $(wildcard include/config/HOTPLUG_CPU) \
+    $(wildcard include/config/DEBUG_PER_CPU_MAPS) \
+    $(wildcard include/config/CPUMASK_OFFSTACK) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/bitmap.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/find.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/string.h \
+    $(wildcard include/config/BINARY_PRINTF) \
+    $(wildcard include/config/FORTIFY_SOURCE) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/args.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/overflow.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/string.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/string.h \
+    $(wildcard include/config/ARCH_HAS_UACCESS_FLUSHCACHE) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/fortify-string.h \
+    $(wildcard include/config/CC_HAS_KASAN_MEMINTRINSIC_PREFIX) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/bitmap-str.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/cpumask_types.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/threads.h \
+    $(wildcard include/config/BASE_SMALL) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/gfp_types.h \
+    $(wildcard include/config/CMA) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/numa.h \
+    $(wildcard include/config/NODES_SHIFT) \
+    $(wildcard include/config/NUMA_KEEP_MEMINFO) \
+    $(wildcard include/config/HAVE_ARCH_NODE_DEV_GROUP) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/uapi/asm/ptrace.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/uapi/asm/sve_context.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/irqchip/arm-gic-v3-prio.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/percpu.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/percpu.h \
+    $(wildcard include/config/HAVE_SETUP_PER_CPU_AREA) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/percpu-defs.h \
+    $(wildcard include/config/DEBUG_FORCE_WEAK_PER_CPU) \
+    $(wildcard include/config/AMD_MEM_ENCRYPT) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/bottom_half.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/lockdep.h \
+    $(wildcard include/config/DEBUG_LOCKING_API_SELFTESTS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/smp.h \
+    $(wildcard include/config/UP_LATE_INIT) \
+    $(wildcard include/config/CSD_LOCK_WAIT_DEBUG) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/list.h \
+    $(wildcard include/config/LIST_HARDENED) \
+    $(wildcard include/config/DEBUG_LIST) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/poison.h \
+    $(wildcard include/config/ILLEGAL_POINTER_VALUE) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/smp_types.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/llist.h \
+    $(wildcard include/config/ARCH_HAVE_NMI_SAFE_CMPXCHG) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/smp.h \
+    $(wildcard include/config/ARM64_ACPI_PARKING_PROTOCOL) \
+  arch/arm64/include/generated/asm/mmiowb.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/mmiowb.h \
+    $(wildcard include/config/MMIOWB) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/spinlock_types.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/rwlock_types.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/spinlock.h \
+  arch/arm64/include/generated/asm/qspinlock.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/qspinlock.h \
+  arch/arm64/include/generated/asm/qrwlock.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/qrwlock.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/processor.h \
+    $(wildcard include/config/KUSER_HELPERS) \
+    $(wildcard include/config/ARM64_FORCE_52BIT) \
+    $(wildcard include/config/HAVE_HW_BREAKPOINT) \
+    $(wildcard include/config/ARM64_TAGGED_ADDR_ABI) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/cache.h \
+    $(wildcard include/config/ARCH_HAS_CACHE_LINE_SIZE) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/cache.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/android_vendor.h \
+    $(wildcard include/config/ANDROID_VENDOR_OEM_DATA) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/vdso/processor.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/vdso/processor.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/hw_breakpoint.h \
+    $(wildcard include/config/CPU_PM) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/virt.h \
+    $(wildcard include/config/KVM) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/kasan.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/mte-kasan.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/pgtable-hwdef.h \
+    $(wildcard include/config/ARM64_CONT_PTE_SHIFT) \
+    $(wildcard include/config/ARM64_CONT_PMD_SHIFT) \
+    $(wildcard include/config/ARM64_VA_BITS_52) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/pointer_auth.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/prctl.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/random.h \
+    $(wildcard include/config/VMGENID) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/random.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/ioctl.h \
+  arch/arm64/include/generated/uapi/asm/ioctl.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/ioctl.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/asm-generic/ioctl.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/irqnr.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/irqnr.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/prandom.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/once.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/spectre.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/fpsimd.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/uapi/asm/sigcontext.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/rwlock.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/spinlock_api_smp.h \
+    $(wildcard include/config/INLINE_SPIN_LOCK) \
+    $(wildcard include/config/INLINE_SPIN_LOCK_BH) \
+    $(wildcard include/config/INLINE_SPIN_LOCK_IRQ) \
+    $(wildcard include/config/INLINE_SPIN_LOCK_IRQSAVE) \
+    $(wildcard include/config/INLINE_SPIN_TRYLOCK) \
+    $(wildcard include/config/INLINE_SPIN_TRYLOCK_BH) \
+    $(wildcard include/config/UNINLINE_SPIN_UNLOCK) \
+    $(wildcard include/config/INLINE_SPIN_UNLOCK_BH) \
+    $(wildcard include/config/INLINE_SPIN_UNLOCK_IRQ) \
+    $(wildcard include/config/INLINE_SPIN_UNLOCK_IRQRESTORE) \
+    $(wildcard include/config/GENERIC_LOCKBREAK) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/rwlock_api_smp.h \
+    $(wildcard include/config/INLINE_READ_LOCK) \
+    $(wildcard include/config/INLINE_WRITE_LOCK) \
+    $(wildcard include/config/INLINE_READ_LOCK_BH) \
+    $(wildcard include/config/INLINE_WRITE_LOCK_BH) \
+    $(wildcard include/config/INLINE_READ_LOCK_IRQ) \
+    $(wildcard include/config/INLINE_WRITE_LOCK_IRQ) \
+    $(wildcard include/config/INLINE_READ_LOCK_IRQSAVE) \
+    $(wildcard include/config/INLINE_WRITE_LOCK_IRQSAVE) \
+    $(wildcard include/config/INLINE_READ_TRYLOCK) \
+    $(wildcard include/config/INLINE_WRITE_TRYLOCK) \
+    $(wildcard include/config/INLINE_READ_UNLOCK) \
+    $(wildcard include/config/INLINE_WRITE_UNLOCK) \
+    $(wildcard include/config/INLINE_READ_UNLOCK_BH) \
+    $(wildcard include/config/INLINE_WRITE_UNLOCK_BH) \
+    $(wildcard include/config/INLINE_READ_UNLOCK_IRQ) \
+    $(wildcard include/config/INLINE_WRITE_UNLOCK_IRQ) \
+    $(wildcard include/config/INLINE_READ_UNLOCK_IRQRESTORE) \
+    $(wildcard include/config/INLINE_WRITE_UNLOCK_IRQRESTORE) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/refcount.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/refcount_types.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/rbtree.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/rbtree_types.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/rcupdate.h \
+    $(wildcard include/config/PREEMPT_RCU) \
+    $(wildcard include/config/TINY_RCU) \
+    $(wildcard include/config/RCU_STRICT_GRACE_PERIOD) \
+    $(wildcard include/config/RCU_LAZY) \
+    $(wildcard include/config/TASKS_RCU_GENERIC) \
+    $(wildcard include/config/RCU_STALL_COMMON) \
+    $(wildcard include/config/NO_HZ_FULL) \
+    $(wildcard include/config/KVM_XFER_TO_GUEST_WORK) \
+    $(wildcard include/config/RCU_NOCB_CPU) \
+    $(wildcard include/config/TASKS_RCU) \
+    $(wildcard include/config/TASKS_TRACE_RCU) \
+    $(wildcard include/config/TASKS_RUDE_RCU) \
+    $(wildcard include/config/TREE_RCU) \
+    $(wildcard include/config/DEBUG_OBJECTS_RCU_HEAD) \
+    $(wildcard include/config/PROVE_RCU) \
+    $(wildcard include/config/ARCH_WEAK_RELEASE_ACQUIRE) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/context_tracking_irq.h \
+    $(wildcard include/config/CONTEXT_TRACKING_IDLE) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/rcutree.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/maple_tree.h \
+    $(wildcard include/config/MAPLE_RCU_DISABLED) \
+    $(wildcard include/config/DEBUG_MAPLE_TREE) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/rwsem.h \
+    $(wildcard include/config/RWSEM_SPIN_ON_OWNER) \
+    $(wildcard include/config/DEBUG_RWSEMS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/osq_lock.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/completion.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/swait.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/wait.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/uprobes.h \
+    $(wildcard include/config/UPROBES) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/uprobes.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/debug-monitors.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/esr.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/probes.h \
+    $(wildcard include/config/KPROBES) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/page-flags-layout.h \
+  include/generated/bounds.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/sparsemem.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/pgtable-prot.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/workqueue.h \
+    $(wildcard include/config/DEBUG_OBJECTS_WORK) \
+    $(wildcard include/config/FREEZER) \
+    $(wildcard include/config/SYSFS) \
+    $(wildcard include/config/WQ_WATCHDOG) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/timer.h \
+    $(wildcard include/config/DEBUG_OBJECTS_TIMERS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/ktime.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/jiffies.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/math64.h \
+    $(wildcard include/config/ARCH_SUPPORTS_INT128) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/vdso/math64.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/time.h \
+    $(wildcard include/config/POSIX_TIMERS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/time64.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/vdso/time64.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/time.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/time_types.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/time32.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/timex.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/timex.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/timex.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/arch_timer.h \
+    $(wildcard include/config/ARM_ARCH_TIMER_OOL_WORKAROUND) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/percpu.h \
+    $(wildcard include/config/MEM_ALLOC_PROFILING) \
+    $(wildcard include/config/RANDOM_KMALLOC_CACHES) \
+    $(wildcard include/config/PAGE_SIZE_4KB) \
+    $(wildcard include/config/NEED_PER_CPU_PAGE_FIRST_CHUNK) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/alloc_tag.h \
+    $(wildcard include/config/MEM_ALLOC_PROFILING_DEBUG) \
+    $(wildcard include/config/MEM_ALLOC_PROFILING_ENABLED_BY_DEFAULT) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/codetag.h \
+    $(wildcard include/config/CODE_TAGGING) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/sched.h \
+    $(wildcard include/config/VIRT_CPU_ACCOUNTING_NATIVE) \
+    $(wildcard include/config/SCHED_INFO) \
+    $(wildcard include/config/SCHEDSTATS) \
+    $(wildcard include/config/SCHED_CORE) \
+    $(wildcard include/config/FAIR_GROUP_SCHED) \
+    $(wildcard include/config/RT_GROUP_SCHED) \
+    $(wildcard include/config/RT_MUTEXES) \
+    $(wildcard include/config/UCLAMP_TASK) \
+    $(wildcard include/config/UCLAMP_BUCKETS_COUNT) \
+    $(wildcard include/config/KMAP_LOCAL) \
+    $(wildcard include/config/SCHED_CLASS_EXT) \
+    $(wildcard include/config/CGROUP_SCHED) \
+    $(wildcard include/config/BLK_DEV_IO_TRACE) \
+    $(wildcard include/config/MEMCG_V1) \
+    $(wildcard include/config/COMPAT_BRK) \
+    $(wildcard include/config/CGROUPS) \
+    $(wildcard include/config/BLK_CGROUP) \
+    $(wildcard include/config/PSI) \
+    $(wildcard include/config/PAGE_OWNER) \
+    $(wildcard include/config/EVENTFD) \
+    $(wildcard include/config/ARCH_HAS_CPU_PASID) \
+    $(wildcard include/config/CPU_SUP_INTEL) \
+    $(wildcard include/config/TASK_DELAY_ACCT) \
+    $(wildcard include/config/STACKPROTECTOR) \
+    $(wildcard include/config/ARCH_HAS_SCALED_CPUTIME) \
+    $(wildcard include/config/CPU_FREQ_TIMES) \
+    $(wildcard include/config/VIRT_CPU_ACCOUNTING_GEN) \
+    $(wildcard include/config/POSIX_CPUTIMERS) \
+    $(wildcard include/config/POSIX_CPU_TIMERS_TASK_WORK) \
+    $(wildcard include/config/KEYS) \
+    $(wildcard include/config/SYSVIPC) \
+    $(wildcard include/config/DETECT_HUNG_TASK) \
+    $(wildcard include/config/IO_URING) \
+    $(wildcard include/config/AUDIT) \
+    $(wildcard include/config/AUDITSYSCALL) \
+    $(wildcard include/config/SCHED_PROXY_EXEC) \
+    $(wildcard include/config/UBSAN) \
+    $(wildcard include/config/UBSAN_TRAP) \
+    $(wildcard include/config/COMPACTION) \
+    $(wildcard include/config/TASK_XACCT) \
+    $(wildcard include/config/CPUSETS) \
+    $(wildcard include/config/X86_CPU_RESCTRL) \
+    $(wildcard include/config/FUTEX) \
+    $(wildcard include/config/PERF_EVENTS) \
+    $(wildcard include/config/RSEQ) \
+    $(wildcard include/config/FAULT_INJECTION) \
+    $(wildcard include/config/LATENCYTOP) \
+    $(wildcard include/config/KUNIT) \
+    $(wildcard include/config/FUNCTION_GRAPH_TRACER) \
+    $(wildcard include/config/KCOV) \
+    $(wildcard include/config/BCACHE) \
+    $(wildcard include/config/LIVEPATCH) \
+    $(wildcard include/config/SECURITY) \
+    $(wildcard include/config/BPF_SYSCALL) \
+    $(wildcard include/config/GCC_PLUGIN_STACKLEAK) \
+    $(wildcard include/config/X86_MCE) \
+    $(wildcard include/config/KRETPROBES) \
+    $(wildcard include/config/RETHOOK) \
+    $(wildcard include/config/ARCH_HAS_PARANOID_L1D_FLUSH) \
+    $(wildcard include/config/RV) \
+    $(wildcard include/config/USER_EVENTS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/sched.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/pid_types.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/sem_types.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/shm.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/shmparam.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/shmparam.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/kmsan_types.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/mutex_types.h \
+    $(wildcard include/config/MUTEX_SPIN_ON_OWNER) \
+    $(wildcard include/config/DEBUG_MUTEXES) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/plist_types.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/hrtimer_types.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/timerqueue_types.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/timer_types.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/seccomp_types.h \
+    $(wildcard include/config/SECCOMP) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/nodemask_types.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/resource.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/resource.h \
+  arch/arm64/include/generated/uapi/asm/resource.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/resource.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/asm-generic/resource.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/latencytop.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/sched/prio.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/sched/types.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/signal_types.h \
+    $(wildcard include/config/OLD_SIGACTION) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/signal.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/signal.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/uapi/asm/signal.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/signal.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/asm-generic/signal.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/asm-generic/signal-defs.h \
+  arch/arm64/include/generated/uapi/asm/siginfo.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/asm-generic/siginfo.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/syscall_user_dispatch_types.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/netdevice_xmit.h \
+    $(wildcard include/config/NET_EGRESS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/task_io_accounting.h \
+    $(wildcard include/config/TASK_IO_ACCOUNTING) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/posix-timers_types.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/rseq.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/seqlock_types.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/kcsan.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/rv.h \
+    $(wildcard include/config/RV_REACTORS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/livepatch_sched.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/uidgid_types.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/android_kabi.h \
+  arch/arm64/include/generated/asm/kmap_size.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/kmap_size.h \
+    $(wildcard include/config/DEBUG_KMAP_LOCAL) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/sched/ext.h \
+    $(wildcard include/config/EXT_GROUP_SCHED) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/rhashtable-types.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/mutex.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/debug_locks.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/workqueue_types.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/clocksource/arm_arch_timer.h \
+    $(wildcard include/config/ARM_ARCH_TIMER) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/timecounter.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/timex.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/vdso/time32.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/vdso/time.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/vdso/jiffies.h \
+  include/generated/timeconst.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/vdso/ktime.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/timekeeping.h \
+    $(wildcard include/config/GENERIC_CMOS_UPDATE) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/clocksource_ids.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/debugobjects.h \
+    $(wildcard include/config/DEBUG_OBJECTS) \
+    $(wildcard include/config/DEBUG_OBJECTS_FREE) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/seqlock.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/percpu_counter.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/mmu.h \
+    $(wildcard include/config/ARM64_E0PD) \
+    $(wildcard include/config/CAVIUM_ERRATUM_27456) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/tlbflush.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/mmu_notifier.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/mmap_lock.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/tracepoint-defs.h \
+    $(wildcard include/config/TRACEPOINTS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/srcu.h \
+    $(wildcard include/config/TINY_SRCU) \
+    $(wildcard include/config/TREE_SRCU) \
+    $(wildcard include/config/NEED_SRCU_NMI_SAFE) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/rcu_segcblist.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/srcutree.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/rcu_node_tree.h \
+    $(wildcard include/config/RCU_FANOUT) \
+    $(wildcard include/config/RCU_FANOUT_LEAF) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/interval_tree.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/fixmap.h \
+    $(wildcard include/config/ACPI_APEI_GHES) \
+    $(wildcard include/config/ARM_SDE_INTERFACE) \
+    $(wildcard include/config/RELOCATABLE) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/fixmap.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/por.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/page_table_check.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/pgtable_uffd.h \
+  arch/arm64/include/generated/asm/early_ioremap.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/early_ioremap.h \
+    $(wildcard include/config/GENERIC_EARLY_IOREMAP) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/io.h \
+    $(wildcard include/config/GENERIC_IOMAP) \
+    $(wildcard include/config/TRACE_MMIO_ACCESS) \
+    $(wildcard include/config/GENERIC_IOREMAP) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/pci_iomap.h \
+    $(wildcard include/config/NO_GENERIC_PCI_IOPORT_MAP) \
+    $(wildcard include/config/GENERIC_PCI_IOMAP) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/logic_pio.h \
+    $(wildcard include/config/INDIRECT_PIO) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/fwnode.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/mm.h \
+    $(wildcard include/config/SYSCTL) \
+    $(wildcard include/config/HAVE_ARCH_MMAP_RND_BITS) \
+    $(wildcard include/config/HAVE_ARCH_MMAP_RND_COMPAT_BITS) \
+    $(wildcard include/config/MEM_SOFT_DIRTY) \
+    $(wildcard include/config/ARCH_USES_HIGH_VMA_FLAGS) \
+    $(wildcard include/config/ARCH_HAS_PKEYS) \
+    $(wildcard include/config/ARCH_PKEY_BITS) \
+    $(wildcard include/config/X86_USER_SHADOW_STACK) \
+    $(wildcard include/config/X86) \
+    $(wildcard include/config/PPC64) \
+    $(wildcard include/config/PARISC) \
+    $(wildcard include/config/SPARC64) \
+    $(wildcard include/config/HAVE_ARCH_USERFAULTFD_MINOR) \
+    $(wildcard include/config/PPC32) \
+    $(wildcard include/config/STACK_GROWSUP) \
+    $(wildcard include/config/SHMEM) \
+    $(wildcard include/config/ZONE_DEVICE) \
+    $(wildcard include/config/FS_DAX) \
+    $(wildcard include/config/MIGRATION) \
+    $(wildcard include/config/ARCH_HAS_GIGANTIC_PAGE) \
+    $(wildcard include/config/ARCH_HAS_PTE_SPECIAL) \
+    $(wildcard include/config/SPLIT_PTE_PTLOCKS) \
+    $(wildcard include/config/DEBUG_VM_RB) \
+    $(wildcard include/config/PAGE_POISONING) \
+    $(wildcard include/config/INIT_ON_ALLOC_DEFAULT_ON) \
+    $(wildcard include/config/INIT_ON_FREE_DEFAULT_ON) \
+    $(wildcard include/config/DEBUG_PAGEALLOC) \
+    $(wildcard include/config/ARCH_WANT_OPTIMIZE_DAX_VMEMMAP) \
+    $(wildcard include/config/HUGETLBFS) \
+    $(wildcard include/config/MAPPING_DIRTY_HELPERS) \
+    $(wildcard include/config/UNACCEPTED_MEMORY) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/gfp.h \
+    $(wildcard include/config/ZONE_DMA) \
+    $(wildcard include/config/ZONE_DMA32) \
+    $(wildcard include/config/CONTIG_ALLOC) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/mmzone.h \
+    $(wildcard include/config/ARCH_FORCE_MAX_ORDER) \
+    $(wildcard include/config/PAGE_BLOCK_ORDER) \
+    $(wildcard include/config/MEMORY_ISOLATION) \
+    $(wildcard include/config/IOMMU_SUPPORT) \
+    $(wildcard include/config/LRU_GEN_STATS) \
+    $(wildcard include/config/PAGE_EXTENSION) \
+    $(wildcard include/config/DEFERRED_STRUCT_PAGE_INIT) \
+    $(wildcard include/config/HAVE_MEMORYLESS_NODES) \
+    $(wildcard include/config/SPARSEMEM_EXTREME) \
+    $(wildcard include/config/HAVE_ARCH_PFN_VALID) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/list_nulls.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/nodemask.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/pageblock-flags.h \
+    $(wildcard include/config/HUGETLB_PAGE_SIZE_VARIABLE) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/local_lock.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/local_lock_internal.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/zswap.h \
+    $(wildcard include/config/ZSWAP) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/memory_hotplug.h \
+    $(wildcard include/config/ARCH_HAS_ADD_PAGES) \
+    $(wildcard include/config/MEMORY_HOTREMOVE) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/notifier.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/topology.h \
+    $(wildcard include/config/USE_PERCPU_NUMA_NODE_ID) \
+    $(wildcard include/config/SCHED_SMT) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/arch_topology.h \
+    $(wildcard include/config/GENERIC_ARCH_TOPOLOGY) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/topology.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/topology.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/pgalloc_tag.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/page_ext.h \
+    $(wildcard include/config/PAGE_PINNER) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/stacktrace.h \
+    $(wildcard include/config/ARCH_STACKWALK) \
+    $(wildcard include/config/STACKTRACE) \
+    $(wildcard include/config/HAVE_RELIABLE_STACKTRACE) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/range.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/percpu-refcount.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/bit_spinlock.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/shrinker.h \
+    $(wildcard include/config/SHRINKER_DEBUG) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/page_ref.h \
+    $(wildcard include/config/DEBUG_PAGE_REF) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/pgsize_migration_inline.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/kasan.h \
+    $(wildcard include/config/KASAN_STACK) \
+    $(wildcard include/config/KASAN_VMALLOC) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/page_pinner.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/memremap.h \
+    $(wildcard include/config/DEVICE_PRIVATE) \
+    $(wildcard include/config/PCI_P2PDMA) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/ioport.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/slab.h \
+    $(wildcard include/config/FAILSLAB) \
+    $(wildcard include/config/KFENCE) \
+    $(wildcard include/config/SLUB_TINY) \
+    $(wildcard include/config/SLUB_DEBUG) \
+    $(wildcard include/config/SLAB_BUCKETS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/hash.h \
+    $(wildcard include/config/HAVE_ARCH_HASH) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/rcuwait.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/sched/signal.h \
+    $(wildcard include/config/MTK_AVOID_TRUNCATE_COREDUMP) \
+    $(wildcard include/config/SCHED_AUTOGROUP) \
+    $(wildcard include/config/BSD_PROCESS_ACCT) \
+    $(wildcard include/config/TASKSTATS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/rculist.h \
+    $(wildcard include/config/PROVE_RCU_LIST) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/signal.h \
+    $(wildcard include/config/DYNAMIC_SIGFRAME) \
+    $(wildcard include/config/PROC_FS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/sched/jobctl.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/sched/task.h \
+    $(wildcard include/config/GKI_DYNAMIC_TASK_STRUCT_SIZE) \
+    $(wildcard include/config/GKI_TASK_STRUCT_VENDOR_SIZE_MAX) \
+    $(wildcard include/config/HAVE_EXIT_THREAD) \
+    $(wildcard include/config/ARCH_WANTS_DYNAMIC_TASK_STRUCT) \
+    $(wildcard include/config/HAVE_ARCH_THREAD_STRUCT_WHITELIST) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/uaccess.h \
+    $(wildcard include/config/ARCH_HAS_SUBPAGE_FAULTS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/fault-inject-usercopy.h \
+    $(wildcard include/config/FAULT_INJECTION_USERCOPY) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/nospec.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/uaccess.h \
+    $(wildcard include/config/CC_HAS_ASM_GOTO_OUTPUT) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/kernel-pgtable.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/asm-extable.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/extable.h \
+    $(wildcard include/config/BPF_JIT) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/access_ok.h \
+    $(wildcard include/config/ALTERNATE_USER_ADDRESS_SPACE) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/cred.h \
+    $(wildcard include/config/MULTIUSER) \
+    $(wildcard include/config/USER_NS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/capability.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/capability.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/uidgid.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/highuid.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/key.h \
+    $(wildcard include/config/KEY_NOTIFICATIONS) \
+    $(wildcard include/config/NET) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/sysctl.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/sysctl.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/assoc_array.h \
+    $(wildcard include/config/ASSOCIATIVE_ARRAY) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/sched/user.h \
+    $(wildcard include/config/EPOLL) \
+    $(wildcard include/config/VFIO_PCI_ZDEV_KVM) \
+    $(wildcard include/config/IOMMUFD) \
+    $(wildcard include/config/WATCH_QUEUE) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/ratelimit.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/pid.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/posix-timers.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/alarmtimer.h \
+    $(wildcard include/config/RTC_CLASS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/hrtimer.h \
+    $(wildcard include/config/HIGH_RES_TIMERS) \
+    $(wildcard include/config/TIME_LOW_RES) \
+    $(wildcard include/config/TIMERFD) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/hrtimer_defs.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/timerqueue.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/huge_mm.h \
+    $(wildcard include/config/PGTABLE_HAS_HUGE_LEAVES) \
+    $(wildcard include/config/READ_ONLY_THP_FOR_FS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/sched/coredump.h \
+    $(wildcard include/config/CORE_DUMP_DEFAULT_ELF_HEADERS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/fs.h \
+    $(wildcard include/config/FS_POSIX_ACL) \
+    $(wildcard include/config/CGROUP_WRITEBACK) \
+    $(wildcard include/config/IMA) \
+    $(wildcard include/config/FILE_LOCKING) \
+    $(wildcard include/config/FSNOTIFY) \
+    $(wildcard include/config/FS_ENCRYPTION) \
+    $(wildcard include/config/FS_VERITY) \
+    $(wildcard include/config/UNICODE) \
+    $(wildcard include/config/QUOTA) \
+    $(wildcard include/config/BLOCK) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/wait_bit.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/kdev_t.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/kdev_t.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/dcache.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/rculist_bl.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/list_bl.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/lockref.h \
+    $(wildcard include/config/ARCH_USE_CMPXCHG_LOCKREF) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/stringhash.h \
+    $(wildcard include/config/DCACHE_WORD_ACCESS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/path.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/stat.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/stat.h \
+  arch/arm64/include/generated/uapi/asm/stat.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/asm-generic/stat.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/compat.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/compat.h \
+    $(wildcard include/config/COMPAT_FOR_U64_ALIGNMENT) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/sched/task_stack.h \
+    $(wildcard include/config/DEBUG_STACK_USAGE) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/magic.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/stat.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/list_lru.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/xarray.h \
+    $(wildcard include/config/XARRAY_MULTI) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/sched/mm.h \
+    $(wildcard include/config/MMU_LAZY_TLB_REFCOUNT) \
+    $(wildcard include/config/ARCH_HAS_MEMBARRIER_CALLBACKS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/sync_core.h \
+    $(wildcard include/config/ARCH_HAS_SYNC_CORE_BEFORE_USERMODE) \
+    $(wildcard include/config/ARCH_HAS_PREPARE_SYNC_CORE_CMD) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/radix-tree.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/semaphore.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/fcntl.h \
+    $(wildcard include/config/ARCH_32BIT_OFF_T) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/fcntl.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/uapi/asm/fcntl.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/asm-generic/fcntl.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/openat2.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/migrate_mode.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/percpu-rwsem.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/rcu_sync.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/delayed_call.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/uuid.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/errseq.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/ioprio.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/sched/rt.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/iocontext.h \
+    $(wildcard include/config/BLK_ICQ) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/ioprio.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/fs_types.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/mount.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/mnt_idmapping.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/rw_hint.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/fs.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/quota.h \
+    $(wildcard include/config/QUOTA_NETLINK_INTERFACE) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/dqblk_xfs.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/dqblk_v1.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/dqblk_v2.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/dqblk_qtree.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/projid.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/quota.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/kobject.h \
+    $(wildcard include/config/UEVENT_HELPER) \
+    $(wildcard include/config/DEBUG_KOBJECT_RELEASE) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/sysfs.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/kernfs.h \
+    $(wildcard include/config/KERNFS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/idr.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/kobject_ns.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/vmstat.h \
+    $(wildcard include/config/VM_EVENT_COUNTERS) \
+    $(wildcard include/config/DEBUG_TLBFLUSH) \
+    $(wildcard include/config/PER_VMA_LOCK_STATS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/vm_event_item.h \
+    $(wildcard include/config/MEMORY_BALLOON) \
+    $(wildcard include/config/BALLOON_COMPACTION) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/sort.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/sched/cputime.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/kernel/sched/sched.h \
+    $(wildcard include/config/PARAVIRT) \
+    $(wildcard include/config/SCHED_DEBUG) \
+    $(wildcard include/config/CPU_FREQ_GOV_SCHEDUTIL) \
+    $(wildcard include/config/CFS_BANDWIDTH) \
+    $(wildcard include/config/GROUP_SCHED_WEIGHT) \
+    $(wildcard include/config/IRQ_WORK) \
+    $(wildcard include/config/NO_HZ_COMMON) \
+    $(wildcard include/config/MTK_ORIGIN_CHANGE) \
+    $(wildcard include/config/HAVE_SCHED_AVG_IRQ) \
+    $(wildcard include/config/SCHED_HW_PRESSURE) \
+    $(wildcard include/config/IRQ_TIME_ACCOUNTING) \
+    $(wildcard include/config/PARAVIRT_TIME_ACCOUNTING) \
+    $(wildcard include/config/SCHED_HRTICK) \
+    $(wildcard include/config/CPU_IDLE) \
+    $(wildcard include/config/CPU_FREQ) \
+    $(wildcard include/config/ENERGY_MODEL) \
+    $(wildcard include/config/RT_SOFTIRQ_AWARE_SCHED) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/sched/affinity.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/sched/autogroup.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/sched/cpufreq.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/sched/deadline.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/sched/loadavg.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/sched/rseq_api.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/rseq.h \
+    $(wildcard include/config/DEBUG_RSEQ) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/sched/smt.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/sched/stat.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/sched/sysctl.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/sched/task_flags.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/sched/topology.h \
+    $(wildcard include/config/SCHED_CLUSTER) \
+    $(wildcard include/config/SCHED_MC) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/sched/idle.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/sched/sd_flags.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/cgroup_api.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/cgroup.h \
+    $(wildcard include/config/DEBUG_CGROUP_REF) \
+    $(wildcard include/config/CGROUP_CPUACCT) \
+    $(wildcard include/config/SOCK_CGROUP_DATA) \
+    $(wildcard include/config/CGROUP_DATA) \
+    $(wildcard include/config/CGROUP_BPF) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/cgroupstats.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/taskstats.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/seq_file.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/string_helpers.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/ctype.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/string_choices.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/ns_common.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/nsproxy.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/user_namespace.h \
+    $(wildcard include/config/INOTIFY_USER) \
+    $(wildcard include/config/FANOTIFY) \
+    $(wildcard include/config/BINFMT_MISC) \
+    $(wildcard include/config/PERSISTENT_KEYRINGS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/kernel_stat.h \
+    $(wildcard include/config/GENERIC_IRQ_STAT_SNAPSHOT) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/interrupt.h \
+    $(wildcard include/config/IRQ_FORCED_THREADING) \
+    $(wildcard include/config/GENERIC_IRQ_PROBE) \
+    $(wildcard include/config/IRQ_TIMINGS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/irqreturn.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/hardirq.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/context_tracking_state.h \
+    $(wildcard include/config/CONTEXT_TRACKING_USER) \
+    $(wildcard include/config/CONTEXT_TRACKING) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/ftrace_irq.h \
+    $(wildcard include/config/HWLAT_TRACER) \
+    $(wildcard include/config/OSNOISE_TRACER) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/vtime.h \
+    $(wildcard include/config/VIRT_CPU_ACCOUNTING) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/hardirq.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/irq.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/irq.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/kvm_arm.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/hardirq.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/irq.h \
+    $(wildcard include/config/GENERIC_IRQ_EFFECTIVE_AFF_MASK) \
+    $(wildcard include/config/GENERIC_IRQ_IPI) \
+    $(wildcard include/config/IRQ_DOMAIN_HIERARCHY) \
+    $(wildcard include/config/DEPRECATED_IRQ_CPU_ONOFFLINE) \
+    $(wildcard include/config/GENERIC_IRQ_MIGRATION) \
+    $(wildcard include/config/GENERIC_PENDING_IRQ) \
+    $(wildcard include/config/HARDIRQS_SW_RESEND) \
+    $(wildcard include/config/GENERIC_IRQ_LEGACY) \
+    $(wildcard include/config/GENERIC_IRQ_CHIP) \
+    $(wildcard include/config/GENERIC_IRQ_MULTI_HANDLER) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/irqhandler.h \
+  arch/arm64/include/generated/asm/irq_regs.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/irq_regs.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/irqdesc.h \
+    $(wildcard include/config/PM_SLEEP) \
+    $(wildcard include/config/GENERIC_IRQ_DEBUGFS) \
+    $(wildcard include/config/SPARSE_IRQ) \
+    $(wildcard include/config/IRQ_DOMAIN) \
+  arch/arm64/include/generated/asm/hw_irq.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/hw_irq.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/cgroup-defs.h \
+    $(wildcard include/config/CGROUP_NET_CLASSID) \
+    $(wildcard include/config/CGROUP_NET_PRIO) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/u64_stats_sync.h \
+  arch/arm64/include/generated/asm/local64.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/local64.h \
+  arch/arm64/include/generated/asm/local.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/local.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/bpf-cgroup-defs.h \
+    $(wildcard include/config/BPF_LSM) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/psi_types.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/kthread.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/cgroup_subsys.h \
+    $(wildcard include/config/CGROUP_DEVICE) \
+    $(wildcard include/config/CGROUP_FREEZER) \
+    $(wildcard include/config/CGROUP_PERF) \
+    $(wildcard include/config/CGROUP_HUGETLB) \
+    $(wildcard include/config/CGROUP_PIDS) \
+    $(wildcard include/config/CGROUP_RDMA) \
+    $(wildcard include/config/CGROUP_MISC) \
+    $(wildcard include/config/CGROUP_DEBUG) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/cgroup_refcnt.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/context_tracking.h \
+    $(wildcard include/config/HAVE_CONTEXT_TRACKING_USER_OFFSTACK) \
+    $(wildcard include/config/CONTEXT_TRACKING_USER_FORCE) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/cpufreq.h \
+    $(wildcard include/config/CPU_FREQ_STAT) \
+    $(wildcard include/config/CPU_THERMAL) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/clk.h \
+    $(wildcard include/config/COMMON_CLK) \
+    $(wildcard include/config/HAVE_CLK_PREPARE) \
+    $(wildcard include/config/HAVE_CLK) \
+    $(wildcard include/config/OF) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/cpu.h \
+    $(wildcard include/config/GENERIC_CPU_DEVICES) \
+    $(wildcard include/config/PM_SLEEP_SMP) \
+    $(wildcard include/config/PM_SLEEP_SMP_NONZERO_CPU) \
+    $(wildcard include/config/ARCH_HAS_CPU_FINALIZE_INIT) \
+    $(wildcard include/config/CPU_MITIGATIONS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/node.h \
+    $(wildcard include/config/HMEM_REPORTING) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/device.h \
+    $(wildcard include/config/HAS_IOMEM) \
+    $(wildcard include/config/GENERIC_MSI_IRQ) \
+    $(wildcard include/config/PINCTRL) \
+    $(wildcard include/config/ARCH_HAS_DMA_OPS) \
+    $(wildcard include/config/DMA_DECLARE_COHERENT) \
+    $(wildcard include/config/DMA_CMA) \
+    $(wildcard include/config/SWIOTLB) \
+    $(wildcard include/config/SWIOTLB_DYNAMIC) \
+    $(wildcard include/config/ARCH_HAS_SYNC_DMA_FOR_DEVICE) \
+    $(wildcard include/config/ARCH_HAS_SYNC_DMA_FOR_CPU) \
+    $(wildcard include/config/ARCH_HAS_SYNC_DMA_FOR_CPU_ALL) \
+    $(wildcard include/config/DMA_OPS_BYPASS) \
+    $(wildcard include/config/DMA_NEED_SYNC) \
+    $(wildcard include/config/IOMMU_DMA) \
+    $(wildcard include/config/DEVTMPFS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/dev_printk.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/energy_model.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/klist.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/pm.h \
+    $(wildcard include/config/VT_CONSOLE_SLEEP) \
+    $(wildcard include/config/CXL_SUSPEND) \
+    $(wildcard include/config/PM) \
+    $(wildcard include/config/PM_CLK) \
+    $(wildcard include/config/PM_GENERIC_DOMAINS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/device/bus.h \
+    $(wildcard include/config/ACPI) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/device/class.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/device/driver.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/module.h \
+    $(wildcard include/config/MODULES_TREE_LOOKUP) \
+    $(wildcard include/config/STACKTRACE_BUILD_ID) \
+    $(wildcard include/config/ARCH_USES_CFI_TRAPS) \
+    $(wildcard include/config/KALLSYMS) \
+    $(wildcard include/config/BPF_EVENTS) \
+    $(wildcard include/config/DEBUG_INFO_BTF_MODULES) \
+    $(wildcard include/config/EVENT_TRACING) \
+    $(wildcard include/config/MODULE_UNLOAD) \
+    $(wildcard include/config/CONSTRUCTORS) \
+    $(wildcard include/config/FUNCTION_ERROR_INJECTION) \
+    $(wildcard include/config/MITIGATION_RETPOLINE) \
+    $(wildcard include/config/MODULE_SIG) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/buildid.h \
+    $(wildcard include/config/VMCORE_INFO) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/kmod.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/umh.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/elf.h \
+    $(wildcard include/config/ARCH_HAVE_EXTRA_ELF_NOTES) \
+    $(wildcard include/config/ARCH_USE_GNU_PROPERTY) \
+    $(wildcard include/config/ARCH_HAVE_ELF_PROT) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/elf.h \
+    $(wildcard include/config/COMPAT_VDSO) \
+  arch/arm64/include/generated/asm/user.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/user.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/elf.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/elf-em.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/moduleparam.h \
+    $(wildcard include/config/ALPHA) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/rbtree_latch.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/error-injection.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/error-injection.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/dynamic_debug.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/module.h \
+    $(wildcard include/config/DYNAMIC_FTRACE) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/module.h \
+    $(wildcard include/config/HAVE_MOD_ARCH_SPECIFIC) \
+    $(wildcard include/config/MODULES_USE_ELF_REL) \
+    $(wildcard include/config/MODULES_USE_ELF_RELA) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/device.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/pm_wakeup.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/cpuhotplug.h \
+    $(wildcard include/config/HOTPLUG_CORE_SYNC_DEAD) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/cpuhplock.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/cpu_smt.h \
+    $(wildcard include/config/HOTPLUG_SMT) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/of.h \
+    $(wildcard include/config/OF_DYNAMIC) \
+    $(wildcard include/config/SPARC) \
+    $(wildcard include/config/OF_PROMTREE) \
+    $(wildcard include/config/OF_KOBJ) \
+    $(wildcard include/config/OF_NUMA) \
+    $(wildcard include/config/OF_OVERLAY) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/mod_devicetable.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/mei.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/mei_uuid.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/property.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/pm_opp.h \
+    $(wildcard include/config/PM_OPP) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/pm_qos.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/plist.h \
+    $(wildcard include/config/DEBUG_PLIST) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/cpumask_api.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/file.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/fs_api.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/hrtimer_api.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/irq_work.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/irq_work.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/kref_api.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/ktime_api.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/lockdep_api.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/mmu_context.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/mmu_context.h \
+    $(wildcard include/config/PID_IN_CONTEXTIDR) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/sched/hotplug.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/pkeys.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/pkeys.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/cacheflush.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/kgdb.h \
+    $(wildcard include/config/HAVE_ARCH_KGDB) \
+    $(wildcard include/config/KGDB) \
+    $(wildcard include/config/SERIAL_KGDB_NMI) \
+    $(wildcard include/config/KGDB_HONOUR_BLOCKLIST) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/kprobes.h \
+    $(wildcard include/config/KRETPROBE_ON_RETHOOK) \
+    $(wildcard include/config/OPTPROBES) \
+    $(wildcard include/config/KPROBES_ON_FTRACE) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/ftrace.h \
+    $(wildcard include/config/HAVE_FUNCTION_GRAPH_RETVAL) \
+    $(wildcard include/config/FUNCTION_TRACER) \
+    $(wildcard include/config/HAVE_DYNAMIC_FTRACE_WITH_ARGS) \
+    $(wildcard include/config/DYNAMIC_FTRACE_WITH_REGS) \
+    $(wildcard include/config/DYNAMIC_FTRACE_WITH_ARGS) \
+    $(wildcard include/config/DYNAMIC_FTRACE_WITH_DIRECT_CALLS) \
+    $(wildcard include/config/STACK_TRACER) \
+    $(wildcard include/config/DYNAMIC_FTRACE_WITH_CALL_OPS) \
+    $(wildcard include/config/FRAME_POINTER) \
+    $(wildcard include/config/FUNCTION_GRAPH_RETVAL) \
+    $(wildcard include/config/FUNCTION_PROFILER) \
+    $(wildcard include/config/FTRACE_SYSCALLS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/trace_recursion.h \
+    $(wildcard include/config/FTRACE_RECORD_RECURSION) \
+    $(wildcard include/config/FTRACE_VALIDATE_RCU_IS_WATCHING) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/trace_clock.h \
+  arch/arm64/include/generated/asm/trace_clock.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/trace_clock.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/kallsyms.h \
+    $(wildcard include/config/KALLSYMS_ALL) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/ptrace.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/pid_namespace.h \
+    $(wildcard include/config/MEMFD_CREATE) \
+    $(wildcard include/config/PID_NS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/ptrace.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/seccomp.h \
+    $(wildcard include/config/HAVE_ARCH_SECCOMP_FILTER) \
+    $(wildcard include/config/SECCOMP_FILTER) \
+    $(wildcard include/config/CHECKPOINT_RESTORE) \
+    $(wildcard include/config/SECCOMP_CACHE_DEBUG) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/seccomp.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/seccomp.h \
+  arch/arm64/include/generated/asm/unistd_compat_32.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/seccomp.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/unistd.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/unistd.h \
+  arch/arm64/include/generated/uapi/asm/unistd_64.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/ftrace.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/compat.h \
+    $(wildcard include/config/ARCH_HAS_SYSCALL_WRAPPER) \
+    $(wildcard include/config/X86_X32_ABI) \
+    $(wildcard include/config/COMPAT_OLD_SIGACTION) \
+    $(wildcard include/config/ODD_RT_SIGACTION) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/sem.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/sem.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/ipc.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/ipc.h \
+  arch/arm64/include/generated/uapi/asm/ipcbuf.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/asm-generic/ipcbuf.h \
+  arch/arm64/include/generated/uapi/asm/sembuf.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/asm-generic/sembuf.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/socket.h \
+  arch/arm64/include/generated/uapi/asm/socket.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/asm-generic/socket.h \
+  arch/arm64/include/generated/uapi/asm/sockios.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/asm-generic/sockios.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/sockios.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/uio.h \
+    $(wildcard include/config/ARCH_HAS_COPY_MC) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/uio.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/socket.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/if.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/libc-compat.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/hdlc/ioctl.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/aio_abi.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/syscall_wrapper.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/objpool.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/rethook.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/kprobes.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/kprobes.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/kgdb.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/cacheflush.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/daifflags.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/arch_gicv3.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/irqchip/arm-gic-common.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/irqchip/arm-vgic-info.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/asm-generic/mmu_context.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/mutex_api.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/poll.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/poll.h \
+  arch/arm64/include/generated/uapi/asm/poll.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/asm-generic/poll.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/eventpoll.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/proc_fs.h \
+    $(wildcard include/config/PROC_PID_ARCH_STATUS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/profile.h \
+    $(wildcard include/config/PROFILING) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/psi.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/softirq.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/spinlock_api.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/stop_machine.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/syscalls_api.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/syscalls.h \
+    $(wildcard include/config/CLONE_BACKWARDS) \
+    $(wildcard include/config/CLONE_BACKWARDS3) \
+    $(wildcard include/config/ARCH_SPLIT_ARG64) \
+    $(wildcard include/config/OLD_SIGSUSPEND) \
+    $(wildcard include/config/OLD_SIGSUSPEND3) \
+    $(wildcard include/config/ADVISE_SYSCALLS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/trace/syscall.h \
+    $(wildcard include/config/HAVE_SYSCALL_TRACEPOINTS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/tracepoint.h \
+    $(wildcard include/config/ARCH_WANTS_NO_INSTR) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/static_call.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/trace_events.h \
+    $(wildcard include/config/DYNAMIC_EVENTS) \
+    $(wildcard include/config/HIST_TRIGGERS) \
+    $(wildcard include/config/KPROBE_EVENTS) \
+    $(wildcard include/config/UPROBE_EVENTS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/ring_buffer.h \
+    $(wildcard include/config/HAVE_64BIT_ALIGNED_ACCESS) \
+    $(wildcard include/config/RING_BUFFER_ALLOW_SWAP) \
+    $(wildcard include/config/RING_BUFFER) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/trace_mmap.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/trace_seq.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/seq_buf.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/perf_event.h \
+    $(wildcard include/config/GUEST_PERF_EVENTS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/perf_event.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/bpf_perf_event.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/uapi/asm/bpf_perf_event.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/perf_event.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/jump_label_ratelimit.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/perf_regs.h \
+    $(wildcard include/config/HAVE_PERF_REGS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/uapi/asm/perf_regs.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/security.h \
+    $(wildcard include/config/SECURITY_NETWORK) \
+    $(wildcard include/config/SECURITY_INFINIBAND) \
+    $(wildcard include/config/SECURITY_NETWORK_XFRM) \
+    $(wildcard include/config/SECURITY_PATH) \
+    $(wildcard include/config/SECURITYFS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/kernel_read_file.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/sockptr.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/bpf.h \
+    $(wildcard include/config/FINEIBT) \
+    $(wildcard include/config/BPF_JIT_ALWAYS_ON) \
+    $(wildcard include/config/INET) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/bpf.h \
+    $(wildcard include/config/BPF_LIRC_MODE2) \
+    $(wildcard include/config/EFFICIENT_UNALIGNED_ACCESS) \
+    $(wildcard include/config/IP_ROUTE_CLASSID) \
+    $(wildcard include/config/BPF_KPROBE_OVERRIDE) \
+    $(wildcard include/config/XFRM) \
+    $(wildcard include/config/IPV6) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/bpf_common.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/filter.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/bpfptr.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/btf.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/bsearch.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/btf_ids.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/btf.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/rcupdate_trace.h \
+    $(wildcard include/config/TASKS_TRACE_RCU_READ_MB) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/memcontrol.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/page_counter.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/vmpressure.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/eventfd.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/eventfd.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/writeback.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/flex_proportions.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/backing-dev-defs.h \
+    $(wildcard include/config/DEBUG_FS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/blk_types.h \
+    $(wildcard include/config/FAIL_MAKE_REQUEST) \
+    $(wildcard include/config/BLK_CGROUP_IOCOST) \
+    $(wildcard include/config/BLK_INLINE_ENCRYPTION) \
+    $(wildcard include/config/DM_DEFAULT_KEY) \
+    $(wildcard include/config/BLK_DEV_INTEGRITY) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/bvec.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/highmem.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/cacheflush.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/kmsan.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/dma-direction.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/highmem-internal.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/pagevec.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/bio.h \
+    $(wildcard include/config/BLK_DEV_ZONED) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/mempool.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/cfi.h \
+    $(wildcard include/config/CFI_CLANG) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/cfi.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/bpf_types.h \
+    $(wildcard include/config/NETFILTER_BPF_LINK) \
+    $(wildcard include/config/FUSE_BPF) \
+    $(wildcard include/config/XDP_SOCKETS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/lsm.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/tick.h \
+    $(wildcard include/config/GENERIC_CLOCKEVENTS) \
+    $(wildcard include/config/SUSPEND) \
+    $(wildcard include/config/TICK_ONESHOT) \
+    $(wildcard include/config/GENERIC_CLOCKEVENTS_BROADCAST) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/clockchips.h \
+    $(wildcard include/config/ARCH_HAS_TICK_BROADCAST) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/clocksource.h \
+    $(wildcard include/config/ARCH_CLOCKSOURCE_DATA) \
+    $(wildcard include/config/GENERIC_GETTIMEOFDAY) \
+    $(wildcard include/config/CLOCKSOURCE_WATCHDOG) \
+    $(wildcard include/config/ARCH_CLOCKSOURCE_INIT) \
+    $(wildcard include/config/TIMER_PROBE) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/clocksource.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/vdso/clocksource.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/vdso/clocksource.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/u64_stats_sync_api.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/wait_api.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/workqueue_api.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/delayacct.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/trace/events/power.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/trace/define_trace.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/trace/events/sched.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/sched/numa_balancing.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/binfmts.h \
+    $(wildcard include/config/COREDUMP) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/exec.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/uapi/linux/binfmts.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/kernel/sched/../workqueue_internal.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/paravirt.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/arch/arm64/include/asm/paravirt_api_clock.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/kernel/sched/cpupri.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/kernel/sched/cpudeadline.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/kernel/sched/features.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/kernel/sched/stats.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/kernel/sched/ext.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/kernel/sched/autogroup.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/kernel/sched/pelt.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/trace/hooks/sched.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/trace/hooks/vendor_hooks.h \
+    $(wildcard include/config/ANDROID_VENDOR_HOOKS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/kernel/sched/sched-pelt.h \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/sched/clock.h \
+    $(wildcard include/config/GENERIC_SCHED_CLOCK) \
+    $(wildcard include/config/HAVE_UNSTABLE_SCHED_CLOCK) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/of_platform.h \
+    $(wildcard include/config/OF_ADDRESS) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/platform_device.h \
+    $(wildcard include/config/HIBERNATE_CALLBACKS) \
+    $(wildcard include/config/SUPERH) \
+  ../../../../../../kernel/xiaomi/mt6895-6.12/include/linux/cpuset.h \
+    $(wildcard include/config/CPUSETS_V1) \
+  ../../../../../../kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/sched/common.h \
+    $(wildcard include/config/MAX_NR_CPUS) \
+    $(wildcard include/config/MTK_CPUFREQ_SUGOV_EXT) \
+    $(wildcard include/config/MTK_SCHEDULER) \
+  ../../../../../../kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/sched/sugov/cpufreq.h \
+  ../../../../../../kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/include/upower/mtk_unified_power.h \
+    $(wildcard include/config/MTK_PLAT_POWER_MT6765) \
+    $(wildcard include/config/MTK_PLAT_POWER_6833) \
+    $(wildcard include/config/MTK_PLAT_POWER_MT6739) \
+    $(wildcard include/config/MTK_PLAT_POWER_MT6761) \
+    $(wildcard include/config/MTK_PLAT_POWER_MT6877) \
+    $(wildcard include/config/MTK_PLAT_POWER_6893) \
+    $(wildcard include/config/MTK_PLAT_POWER_6781) \
+    $(wildcard include/config/MTK_PLAT_POWER_6853) \
+  ../../../../../../kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/include/upower/mtk_unified_power_plat.h \
+    $(wildcard include/config/MTK_TINYSYS_SSPM_SUPPORT) \
+  ../../../../../../kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/sched/sugov/sugov_trace.h \
+  ../../../../../../kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/sched/mtk_energy_model/v3/energy_model.h \
+  ../../../../../../kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/sched/mtk_energy_model/v3/energy_model_comm.h \
+  ../../../../../../kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/cpufreq/mediatek-cpufreq-hw_fdvfs.h \
+  ../../../../../../kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/sched/util/cpu_util.h \
+  ../../../../../../kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/sched/sugov/dsu_interface.h \
+  ../../../../../../kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/include/mt-plat/mtk_irq_mon.h \
+    $(wildcard include/config/MTK_IRQ_MONITOR) \
+  ../../../../../../kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/sched/eas/group.h \
+  ../../../../../../kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/sched/sugov/sched_version_ctrl.h \
+  ../../../../../../kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/thermal/mediatek/thermal_interface.h \
+
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/sched/sugov/nonlinear_opp_cap.o: $(deps_/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/sched/sugov/nonlinear_opp_cap.o)
+
+$(deps_/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/sched/sugov/nonlinear_opp_cap.o):
+#SYMVER sbb 0x3f322a95
+#SYMVER flt_get_fpsgo_boosting 0x92588a78
+#SYMVER curr_collab_state 0x9f4dcc60
+#SYMVER change_dpt_support_driver_hook 0xd3df5b5c
+#SYMVER val_m 0x397a1f39
+#SYMVER dpt_v2_uclamp2local_cap_hook 0xa9c59fbd
+#SYMVER get_coef1_min_max_ltime_hook 0x0b71e7dd
+#SYMVER get_coef2_min_max_ltime_hook 0xe838507f
+#SYMVER dpt_v2_opp2pwr_eff_hook 0x752dd909
+#SYMVER dpt_v2_linear_local_cap2opp_hook 0xc1c3d290
+#SYMVER dpt_v2_opp2global_cap_hook 0x1c8315b8
+#SYMVER get_scaling_factor_shift_bit_hook 0xf89219d0
+#SYMVER get_dpt_v2_cs_counter_addr_hook 0x29aeb8cf
+#SYMVER dpt_v2_linear_local_cap2freq_hook 0xfd300587
+#SYMVER get_cpu_perf_scaling_factor_hook 0x42936774
+#SYMVER get_cpu_power_scaling_factor_hook 0x3628344a
+#SYMVER check_cpu_perf_scaling_factor_hook 0x5cd7660d
+#SYMVER check_cpu_power_scaling_factor_hook 0x5d477bca
+#SYMVER rescale_cpu_util_upscale_hook 0x3e398aaa
+#SYMVER dpt_v2_util2cap_needed_local_hook 0xaabd29ec
+#SYMVER change_dpt_v2_support_hook 0xa6fce3a0
+#SYMVER set_dpt_v2_default_status_hook 0xc416ab98
+#SYMVER get_dpt_v2_default_status_hook 0xb37ec649
+#SYMVER is_dpt_v2_support_hook 0x1022b6ee
+#SYMVER rescale_coef1_util_or_ratio_hook 0x735266ca
+#SYMVER rescale_coef2_util_or_ratio_hook 0xc8d97b65
+#SYMVER dpt_v2_freq2linear_cap_local_hook 0x753728da
+#SYMVER update_coef1_ltime_perf_model_hook 0x79c7ec52
+#SYMVER update_coef2_ltime_perf_model_hook 0x07bfa4f4
+#SYMVER get_coef1_ltime_perf_model_result_hook 0x9933a512
+#SYMVER get_coef2_ltime_perf_model_result_hook 0xa1082e61
+#SYMVER dpt_v2_init_done_hook 0xadf40e2e
+#SYMVER __dpt_rq 0xa94deba2
+#SYMVER max_freq 0x236dcac0
+#SYMVER thermal_freq 0x4573fcd1
+#SYMVER freq_ceiling 0x440c8d9d
+#SYMVER freq_floor 0xea92b60f
+#SYMVER thermal_freq_ceiling_ratio 0xecaa1564
+#SYMVER freq_ceiling_ratio 0xe6c18888
+#SYMVER dpt_v2_cpu_capacity_all_util_local 0xad90773f
+#SYMVER get_grp_dvfs_ctrl 0x41750bf4
+#SYMVER set_grp_dvfs_ctrl 0x850fc24b
+#SYMVER get_am_ctrl 0x3a53be71
+#SYMVER set_am_ctrl 0xe80265ab
+#SYMVER get_eas_dsu_ctrl 0x55f0d26c
+#SYMVER set_eas_dsu_ctrl 0x1d4a1606
+#SYMVER set_dsu_ctrl 0x898f3345
+#SYMVER get_dsu_freq_state 0xace41a77
+#SYMVER mtk_dsu_freq_agg_hook 0xa9f8ecd8
+#SYMVER dsu_freq_agg 0xb89e8212
+#SYMVER mtk_uclamp_involve 0x2ed4732d
+#SYMVER get_nr_wl 0x2ad3b47b
+#SYMVER get_nr_cpu_type 0x3c671f7b
+#SYMVER get_cpu_type 0xde5ef734
+#SYMVER set_wl_manual 0x49b5917d
+#SYMVER set_wl_cpu_manual 0x7f8c6877
+#SYMVER set_wl_dsu_manual 0xdf343e5e
+#SYMVER get_wl_manual 0x2dc46c3c
+#SYMVER get_wl_dsu_manual 0x2cf2d4e3
+#SYMVER max_freq_scale 0x587f5732
+#SYMVER min_freq_scale 0x7fc43003
+#SYMVER min_freq 0xf4867881
+#SYMVER mtk_available_idle_cpu 0xde01b8b9
+#SYMVER get_thermal_freq_ceiling_ratio 0xd8eff00b
+#SYMVER get_freq_ceiling_ratio 0x5c38ed92
+#SYMVER dpt_v2_local_capacity_all_util_of 0xc250bbf1
+#SYMVER mtk_get_actual_cpu_capacity 0x595d70f0
+#SYMVER update_wl_tbl 0xdfe20281
+#SYMVER get_curr_wl 0x38399da9
+#SYMVER get_curr_wl_dsu 0xbfe84727
+#SYMVER get_classify_wl 0xe16e45ef
+#SYMVER get_em_wl 0xc4019a1f
+#SYMVER get_wl_dsu 0xefd86370
+#SYMVER init_collab_driver_hook 0xe60e0150
+#SYMVER init_wl_collab_mask_driver_hook 0xe45c784c
+#SYMVER set_curr_collab_state_driver_hook 0x1e8ef4bf
+#SYMVER set_val_m_driver_hook 0xa08a1371
+#SYMVER set_collab_state_manual_driver_hook 0xd5566a2a
+#SYMVER is_dpt_support_driver_hook 0x88010db6
+#SYMVER set_v_driver_hook 0xa5bfd138
+#SYMVER get_sys_max_cap_cluster 0xa4f53f2a
+#SYMVER get_cpu_max_freq 0x39270c06
+#SYMVER get_cpu_min_freq 0x2cacd8f4
+#SYMVER update_curr_collab_state 0x072eebfa
+#SYMVER init_sbb_cpu_data 0x11da4dc9
+#SYMVER set_system_sbb 0x0022e216
+#SYMVER get_system_sbb 0x2b15bef7
+#SYMVER set_sbb 0x7a160793
+#SYMVER is_sbb_trigger 0x66d638e3
+#SYMVER set_sbb_active_ratio 0x0623dd60
+#SYMVER set_sbb_active_ratio_gear 0x01b063de
+#SYMVER get_sbb_active_ratio_gear 0x2d17e429
+#SYMVER is_gearless_support 0x49ff5efa
+#SYMVER get_nr_gears 0xef559a24
+#SYMVER get_gear_cpumask 0x84e9f08e
+#SYMVER mtk_eas_hook 0x9d3727bf
+#SYMVER get_eas_hook 0x799c4c88
+#SYMVER mtk_data_hook 0x391ea61c
+#SYMVER mtk_data_get 0xf8c837c7
+#SYMVER mtk_sched_test_hook 0xd3178186
+#SYMVER mtk_opp2freq_hook 0x5e07d705
+#SYMVER pd_opp2freq 0x024f95cd
+#SYMVER record_sched_pd_opp2cap 0x4988428c
+#SYMVER mtk_opp2cap_hook 0x8a57ad11
+#SYMVER pd_opp2cap 0x750b08aa
+#SYMVER record_sched_pd_opp2pwr_eff 0xaaed9037
+#SYMVER mtk_opp2pwr_eff_hook 0x7d6586df
+#SYMVER pd_opp2pwr_eff 0x093e19dd
+#SYMVER mtk_opp2dyn_pwr_hook 0x7e75d2c9
+#SYMVER pd_opp2dyn_pwr 0x7d5c8fd5
+#SYMVER mtk_opp2volt_hook 0x1958b5da
+#SYMVER pd_opp2volt 0xa3f14019
+#SYMVER mtk_cpu_opp2dsu_freq_hook 0x081e8db0
+#SYMVER pd_cpu_opp2dsu_freq 0xcf0f373e
+#SYMVER mtk_util2opp_hook 0x3b9a072e
+#SYMVER pd_util2opp 0x5c663238
+#SYMVER mtk_freq2opp_hook 0xed04b23e
+#SYMVER pd_freq2opp 0x2a8d72aa
+#SYMVER mtk_cpu_volt2opp_hook 0xa1c8fa40
+#SYMVER pd_cpu_volt2opp 0x02a17d41
+#SYMVER mtk_dsu_weighting_hook 0x40bcdcee
+#SYMVER pd_get_dsu_weighting 0x87b1262a
+#SYMVER mtk_emi_weighting_hook 0xe01e7a67
+#SYMVER pd_get_emi_weighting 0x5245a357
+#SYMVER mtk_dsu_freq2opp_hook 0xafe3cf9a
+#SYMVER dsu_get_freq_opp 0xc04dbdb3
+#SYMVER mtk_dsu_volt2opp_hook 0x6924fb6f
+#SYMVER pd_dsu_volt2opp 0x9ef66096
+#SYMVER mtk_dsu_opp_ps_hook 0xd6b3a036
+#SYMVER dsu_get_opp_ps 0x170ed47b
+#SYMVER mtk_leakage_hook 0xe7718804
+#SYMVER pd_get_opp_leakage 0x0d5cb810
+#SYMVER mtk_dsu_freq_hook 0x9fa086e1
+#SYMVER pd_get_dsu_freq 0x456d04fc
+#SYMVER pd_freq2util 0x2c21556f
+#SYMVER pd_util2freq_r_o 0x49af5325
+#SYMVER pd_util2freq 0x1ca9257e
+#SYMVER pd_get_util_opp 0x1d6abd42
+#SYMVER pd_get_util_opp_legacy 0xfdd26827
+#SYMVER pd_get_util_freq 0xab4599f1
+#SYMVER pd_get_util_pwr_eff 0x7f994496
+#SYMVER pd_get_freq_opp 0x04c62fab
+#SYMVER pd_get_freq_opp_legacy 0xa3825629
+#SYMVER pd_get_freq_opp_legacy_type 0x1bf1fbe0
+#SYMVER pd_get_freq_util_legacy 0xd63842fd
+#SYMVER pd_get_freq_util 0xb459aae8
+#SYMVER pd_get_freq_pwr_eff 0x6055b727
+#SYMVER pd_get_opp_freq 0xa9d356c9
+#SYMVER pd_get_opp_capacity 0xac073acf
+#SYMVER pd_get_opp_capacity_legacy 0xd422dc84
+#SYMVER pd_get_opp_freq_legacy 0x836f0f34
+#SYMVER pd_get_opp_pwr_eff 0x2ef36bcd
+#SYMVER pd_X2Y 0x60a17349
+#SYMVER pd_get_cpu_opp 0x6bb5ca2c
+#SYMVER Adaptive_module_bypass 0x3e931d13
+#SYMVER get_fpsgo_bypass_flag 0x780e0349
+#SYMVER get_curr_uclamp_ctrl 0xdfccc53f
+#SYMVER set_curr_uclamp_ctrl 0x595f69e7
+#SYMVER set_curr_uclamp_hint 0xcb63ad00
+#SYMVER get_curr_uclamp_hint 0x95d44347
+#SYMVER get_gear_uclamp_ctrl 0x8a3aa29a
+#SYMVER set_gear_uclamp_ctrl 0xaa1ee350
+#SYMVER get_gear_uclamp_max 0x3d84dd40
+#SYMVER get_cpu_gear_uclamp_max 0x3a5210d6
+#SYMVER get_cpu_gear_uclamp_max_capacity 0xa94ae869
+#SYMVER set_gear_uclamp_max 0x64075b2a
+#SYMVER get_mtk_em_api_data 0x2f1e7309
+#SYMVER mtk_em_malloc 0x07d883d3
+#SYMVER get_dpt_sram_base 0x4c1ceeb2
+#SYMVER get_dpt_rq 0xa017db9d
+#SYMVER set_dpt_v2_info_manual 0x098401a1
+#SYMVER get_dpt_v2_driver_init_status 0xc85e28a3
+#SYMVER get_init_driver_after_vendor_init_done 0x211127cc
+#SYMVER init_driver_after_vendor_init 0xff4cd2da
+#SYMVER __get_scaling_factor_shift_bit 0xec6b54e3
+#SYMVER get_nr_collab_type 0x27521ed7
+#SYMVER set_collab_state_manual 0xfece000e
+#SYMVER get_dpt_default_status 0x875ed69c
+#SYMVER get_curr_cap 0xa9fac2a5
+#SYMVER set_sched_capacity_margin_dvfs 0xa1ea24df
+#SYMVER get_sched_capacity_margin_dvfs 0xd3188918
+#SYMVER set_target_margin 0x62d42e01
+#SYMVER set_target_margin_low 0x353e0e35
+#SYMVER get_target_margin 0xdfbdad0d
+#SYMVER get_target_margin_low 0xc8c5b35e
+#SYMVER unset_target_margin 0x532ff774
+#SYMVER unset_target_margin_low 0x18a0d0bd
+#SYMVER set_turn_point_freq 0xaf8e1795
+#SYMVER get_turn_point_freq 0x94a22efd
+#SYMVER get_adaptive_margin 0x26b142db
+#SYMVER get_cpu_util_with_margin 0xae0d0b25
+#SYMVER get_cpu_active_ratio_cap 0xa959b402
+#SYMVER get_gear_max_active_ratio_cap 0x207516bc
+#SYMVER set_target_active_ratio_pct 0x1e554c0a
+#SYMVER set_target_active_ratio_cap 0xda7d1130
+#SYMVER set_am_ceiling 0x6c7d99de
+#SYMVER get_am_ceiling 0xd73e510f
+#SYMVER set_ignore_idle_ctrl 0x9aece762
+#SYMVER get_ignore_idle_ctrl 0xd04fa292
+#SYMVER flt_sched_get_cpu_group_util_eas_hook 0xd90f43c8
+#SYMVER flt_sched_get_flt_coef_util_eas_hook 0xeaf8d67e
+#SYMVER flt_get_cpu_util_hook 0x1a2a5056
+#SYMVER get_group_hint_hook 0xeb968a0d
+#SYMVER update_active_ratio_all 0xe9b09d13
+#SYMVER get_grp_high_freq 0x8fed5478
+#SYMVER set_grp_high_freq 0x7f952eea
+#SYMVER set_flt_margin 0xa30b9555
+#SYMVER get_flt_margin 0x68a6b947
+#SYMVER is_dpt_v2_support 0x83457e9a
+#SYMVER dpt_v2_change_config 0xffd8602e
+#SYMVER dpt_v2_get_config 0xe4b17381
+#SYMVER dpt_v2_get_uclamped_cpu_util 0xf1c5961d
+#SYMVER mtk_map_util_freq_dpt_v2 0xd2fa6945
+#SYMVER mtk_map_util_freq 0xfd3b0d3b
+#SYMVER mtk_cpu_util_next_dpt_v2 0x1070e1da
+#SYMVER mtk_cpu_util_cfs_dpt_v2 0xab5a29c9
+#SYMVER mtk_cpu_util_cfs_boost_dpt_v2 0x3c9e2d23
+#SYMVER topology_set_non_s_scale_dpt_v2 0xa0285859
+#SYMVER topology_set_coef1_s_scale_dpt_v2 0x10ef816b
+#SYMVER topology_set_coef1_ltime_scale_dpt_v2 0xfef04fa6
+#SYMVER topology_set_coef2_s_scale_dpt_v2 0x3a5331e3
+#SYMVER topology_set_coef2_ltime_scale_dpt_v2 0x452441b5
+#SYMVER task_global_to_local_dpt_v2 0x574883fb

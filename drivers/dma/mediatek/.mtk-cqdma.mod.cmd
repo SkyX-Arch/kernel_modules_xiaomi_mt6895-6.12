@@ -1,0 +1,1 @@
+savedcmd_/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/dma/mediatek/mtk-cqdma.mod := printf '%s\n'   mtk-cqdma.o | awk '!x[$$0]++ { print("/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/dma/mediatek/"$$0) }' > /home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/dma/mediatek/mtk-cqdma.mod

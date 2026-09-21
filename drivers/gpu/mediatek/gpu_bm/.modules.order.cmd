@@ -1,0 +1,1 @@
+savedcmd_/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/gpu/mediatek/gpu_bm/modules.order := {   echo /home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/gpu/mediatek/gpu_bm/mtk_gpu_qos.o; :; } > /home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/gpu/mediatek/gpu_bm/modules.order

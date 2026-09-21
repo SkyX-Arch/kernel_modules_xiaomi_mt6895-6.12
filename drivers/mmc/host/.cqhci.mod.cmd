@@ -1,0 +1,1 @@
+savedcmd_/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/mmc/host/cqhci.mod := printf '%s\n'   cqhci-core.o cqhci-crypto.o | awk '!x[$$0]++ { print("/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/mmc/host/"$$0) }' > /home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/mmc/host/cqhci.mod

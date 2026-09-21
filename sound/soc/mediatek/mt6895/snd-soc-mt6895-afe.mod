@@ -1,0 +1,12 @@
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/sound/soc/mediatek/mt6895/mt6895-afe-pcm.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/sound/soc/mediatek/mt6895/mt6895-afe-clk.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/sound/soc/mediatek/mt6895/mt6895-afe-gpio.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/sound/soc/mediatek/mt6895/mt6895-dai-adda.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/sound/soc/mediatek/mt6895/mt6895-afe-control.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/sound/soc/mediatek/mt6895/mt6895-dai-i2s.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/sound/soc/mediatek/mt6895/mt6895-dai-hw-gain.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/sound/soc/mediatek/mt6895/mt6895-dai-src.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/sound/soc/mediatek/mt6895/mt6895-dai-pcm.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/sound/soc/mediatek/mt6895/mt6895-dai-hostless.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/sound/soc/mediatek/mt6895/mt6895-misc-control.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/sound/soc/mediatek/mt6895/mt6895-dai-tdm.o

@@ -1,0 +1,1 @@
+savedcmd_/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/gpu/drm/mediatek/mediatek_v2/v1/modules.order := {  :; } > /home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/gpu/drm/mediatek/mediatek_v2/v1/modules.order

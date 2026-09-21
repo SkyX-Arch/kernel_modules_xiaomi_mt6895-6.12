@@ -1,0 +1,1 @@
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/lens/vcm/v4l2/gt9772a/gt9772a.o

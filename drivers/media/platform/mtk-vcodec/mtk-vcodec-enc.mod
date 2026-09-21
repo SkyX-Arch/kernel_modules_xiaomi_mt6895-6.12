@@ -1,0 +1,9 @@
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/media/platform/mtk-vcodec/mtk_vcodec_enc_drv.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/media/platform/mtk-vcodec/mtk_vcodec_enc.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/media/platform/mtk-vcodec/mtk_vcodec_enc_pm.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/media/platform/mtk-vcodec/venc_drv_if.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/media/platform/mtk-vcodec/vdvfs_vqos/mtk_vcodec_enc_pm_plat.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/media/platform/mtk-vcodec/vdvfs_vqos/vcodec_dvfs.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/media/platform/mtk-vcodec/venc/venc_common_if.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/media/platform/mtk-vcodec/venc/venc_vcu_if.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/media/platform/mtk-vcodec/venc/venc_vcp_if.o

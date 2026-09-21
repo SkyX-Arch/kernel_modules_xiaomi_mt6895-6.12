@@ -1,0 +1,11 @@
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/gpu/mediatek/gpueb/gpueb.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/gpu/mediatek/gpueb/gpueb_ipi.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/gpu/mediatek/gpueb/gpueb_logger.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/gpu/mediatek/gpueb/gpueb_plat_service.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/gpu/mediatek/gpueb/gpueb_reserved_mem.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/gpu/mediatek/gpueb/gpueb_gpumpu.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/gpu/mediatek/gpueb/gpueb_hwvoter_dbg.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/gpu/mediatek/gpueb/gpueb_debug.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/gpu/mediatek/gpueb/gpueb_timesync.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/gpu/mediatek/gpueb/ghpm_wrapper.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/gpu/mediatek/gpueb/ghpm_debug.o

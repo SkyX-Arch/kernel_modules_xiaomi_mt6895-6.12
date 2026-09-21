@@ -1,0 +1,7 @@
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/media/platform/mtk-isp/mtk-hcp/mtk_hcp.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/media/platform/mtk-isp/mtk-ipesys-me/mtk-ipesys-me.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/media/platform/mtk-jpeg/mtk_jpeg.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/media/platform/mtk-vcodec/mtk-vcodec-common.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/media/platform/mtk-vcodec/mtk-vcodec-trace.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/media/platform/mtk-vcodec/mtk-vcodec-dec.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/media/platform/mtk-vcodec/mtk-vcodec-enc.o

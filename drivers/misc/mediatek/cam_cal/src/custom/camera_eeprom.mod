@@ -1,0 +1,13 @@
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/cam_cal/src/custom/../common/v2/eeprom_driver.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/cam_cal/src/custom/../common/v2/eeprom_i2c_common_driver.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/cam_cal/src/custom/../common/v2/eeprom_utils.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/cam_cal/src/custom/eeprom_i2c_custom_driver.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/cam_cal/src/custom/cam_cal_list.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/cam_cal/src/custom/cam_cal_config.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/cam_cal/src/custom/xiaomi_cam_cal_config.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/cam_cal/src/custom/layout/platogc02m1_mtk_eeprom.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/cam_cal/src/custom/layout/platoimx596_mtk_eeprom.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/cam_cal/src/custom/layout/platos5k4h7_mtk_eeprom.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/cam_cal/src/custom/layout/platos5khm6_3_mtk_eeprom.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/cam_cal/src/custom/layout/platos5khm6_mtk_eeprom.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/cam_cal/src/custom/layout/platosemcos5khm6_mtk_eeprom.o

@@ -1,0 +1,11 @@
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/sound/soc/mediatek/common/snd-soc-mtk-common.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/sound/soc/mediatek/common/mtk-afe-external.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/sound/soc/mediatek/common/mtk-sp-spk-amp.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/sound/soc/mediatek/common/mtk-btcvsd.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/sound/soc/mediatek/mt6895/snd-soc-mt6895-afe.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/sound/soc/mediatek/mt6895/mt6895-mt6368.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/sound/soc/mediatek/vow/mtk-scp-vow.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/sound/soc/mediatek/audio_dsp/snd-soc-audiodsp-common.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/sound/soc/mediatek/audio_dsp/mtk-soc-offload-common.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/sound/soc/mediatek/ultrasound/ultra_scp/snd-soc-mtk-scp-ultra.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/sound/soc/mediatek/ultrasound/ultra_common/mtk-scp-ultra.o

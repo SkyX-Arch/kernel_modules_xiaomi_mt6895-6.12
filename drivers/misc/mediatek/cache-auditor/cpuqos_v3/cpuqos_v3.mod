@@ -1,0 +1,2 @@
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/cache-auditor/cpuqos_v3/cpuqos_v3_proto.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/misc/mediatek/cache-auditor/cpuqos_v3/cpuqos_sys_common.o

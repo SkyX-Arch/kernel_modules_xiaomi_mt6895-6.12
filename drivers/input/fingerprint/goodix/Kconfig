@@ -1,0 +1,10 @@
+# SPDX-License-Identifier: GPL-2.0-only
+
+config GOODIX_FINGERPRINT
+	tristate "Goodix fingerprint sensor in TEE mode"
+	depends on SPI
+	help
+	  Say Y here to enable the Goodix GF SPI fingerprint driver running
+	  in TEE (Trustonic/Microtrust) mode. Used on Xiaomi 12T (plato).
+
+	  To compile this driver as a module, choose M here.

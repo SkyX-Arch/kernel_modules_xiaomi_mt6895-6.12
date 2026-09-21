@@ -1,0 +1,9 @@
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/gpu/drm/panel/mtk_drm_panel_drv.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/gpu/drm/panel/mtk_drm_panel_drv_dsi.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/gpu/drm/panel/mtk_drm_panel_drv_dpi.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/gpu/drm/panel/mtk_drm_panel_drv_dbi.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/gpu/drm/panel/mtk_drm_panel_helper.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/gpu/drm/panel/mtk_drm_panel_helper_dsi.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/gpu/drm/panel/mtk_drm_panel_helper_dpi.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/gpu/drm/panel/mtk_drm_panel_helper_dbi.o
+/home/skyfox/Crdroid/kernel/xiaomi/kernel_modules_xiaomi_mt6895-6.12/drivers/gpu/drm/panel/mtk_round_corner/mtk_drm_rc.o
